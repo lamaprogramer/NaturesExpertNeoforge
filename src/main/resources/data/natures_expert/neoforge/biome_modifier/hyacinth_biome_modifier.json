@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "frozen_peaks",
+    "meadow",
+    "snowy_plains",
+    "snowy_taiga",
+    "ice_spikes"
+  ],
+  "features": "natures_expert:hyacinth",
+  "step": "vegetal_decoration"
+}

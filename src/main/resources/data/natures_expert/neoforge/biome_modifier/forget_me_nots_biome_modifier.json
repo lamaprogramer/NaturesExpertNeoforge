@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "snowy_plains",
+    "meadow",
+    "frozen_peaks"
+  ],
+  "features": "natures_expert:forget_me_nots",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "windswept_gravelly_hills",
+    "windswept_savanna",
+    "savanna",
+    "savanna_plateau"
+  ],
+  "features": "natures_expert:blue_passion_flower",
+  "step": "vegetal_decoration"
+}

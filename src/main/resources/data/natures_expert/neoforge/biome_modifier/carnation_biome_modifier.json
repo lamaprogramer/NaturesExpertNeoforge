@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_forest",
+  "features": "natures_expert:carnation",
+  "step": "vegetal_decoration"
+}

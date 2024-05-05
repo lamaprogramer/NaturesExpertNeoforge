@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/carnation",
+    "particle": "natures_expert:block/carnation"
+  },
+  "render_type": "cutout"
+}

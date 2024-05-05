@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/blue_passion_flower",
+    "particle": "natures_expert:block/blue_passion_flower"
+  },
+  "render_type": "cutout"
+}

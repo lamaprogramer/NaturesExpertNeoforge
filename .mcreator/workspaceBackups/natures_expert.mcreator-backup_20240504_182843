@@ -1,0 +1,376 @@
+{
+  "mod_elements": [
+    {
+      "name": "Amaryllis",
+      "type": "plant",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amaryllis",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/amaryllis.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/amaryllis_biome_modifier.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/amaryllis.json",
+          "src/main/resources/assets/natures_expert/models/block/amaryllis.json",
+          "src/main/resources/assets/natures_expert/blockstates/amaryllis.json",
+          "src/main/resources/assets/natures_expert/models/item/amaryllis.json",
+          "src/main/java/net/mcreator/naturesexpert/block/AmaryllisBlock.java",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/amaryllis.json"
+        ]
+      }
+    },
+    {
+      "name": "Anemone",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anemone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/anemone.json",
+          "src/main/resources/assets/natures_expert/blockstates/anemone.json",
+          "src/main/resources/assets/natures_expert/models/item/anemone.json",
+          "src/main/resources/assets/natures_expert/models/block/anemone.json",
+          "src/main/java/net/mcreator/naturesexpert/block/AnemoneBlock.java",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/anemone_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/anemone.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/anemone.json"
+        ]
+      }
+    },
+    {
+      "name": "Astilbe",
+      "type": "plant",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "astilbe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/astilbe.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/astilbe_biome_modifier.json",
+          "src/main/resources/assets/natures_expert/models/block/astilbe.json",
+          "src/main/java/net/mcreator/naturesexpert/block/AstilbeBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/astilbe.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/astilbe.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/astilbe.json",
+          "src/main/resources/assets/natures_expert/models/item/astilbe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carnation",
+      "type": "plant",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carnation",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/carnation.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/carnation.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/carnation_biome_modifier.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/carnation.json",
+          "src/main/java/net/mcreator/naturesexpert/block/CarnationBlock.java",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/carnation.json",
+          "src/main/resources/assets/natures_expert/models/block/carnation.json",
+          "src/main/resources/assets/natures_expert/models/item/carnation.json"
+        ]
+      }
+    },
+    {
+      "name": "BluePassionFlower",
+      "type": "plant",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_passion_flower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/blue_passion_flower_biome_modifier.json",
+          "src/main/resources/assets/natures_expert/blockstates/blue_passion_flower.json",
+          "src/main/resources/assets/natures_expert/models/item/blue_passion_flower.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/blue_passion_flower.json",
+          "src/main/resources/assets/natures_expert/models/block/blue_passion_flower.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/blue_passion_flower.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/blue_passion_flower.json",
+          "src/main/java/net/mcreator/naturesexpert/block/BluePassionFlowerBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "CallaLily",
+      "type": "plant",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calla_lily",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/calla_lily_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/calla_lily.json",
+          "src/main/resources/assets/natures_expert/models/item/calla_lily.json",
+          "src/main/resources/assets/natures_expert/blockstates/calla_lily.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/calla_lily.json",
+          "src/main/resources/assets/natures_expert/models/block/calla_lily.json",
+          "src/main/java/net/mcreator/naturesexpert/block/CallaLilyBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/calla_lily.json"
+        ]
+      }
+    },
+    {
+      "name": "ForgetMeNots",
+      "type": "plant",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forget_me_nots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/forget_me_nots.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/forget_me_nots_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/forget_me_nots.json",
+          "src/main/resources/assets/natures_expert/models/item/forget_me_nots.json",
+          "src/main/resources/assets/natures_expert/blockstates/forget_me_nots.json",
+          "src/main/resources/assets/natures_expert/models/block/forget_me_nots.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/forget_me_nots.json",
+          "src/main/java/net/mcreator/naturesexpert/block/ForgetMeNotsBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Hyacinth",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/item/hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/block/hyacinth.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/hyacinth_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/hyacinth.json",
+          "src/main/resources/assets/natures_expert/blockstates/hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/HyacinthBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/hyacinth.json"
+        ]
+      }
+    },
+    {
+      "name": "Lavender",
+      "type": "plant",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lavender",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/lavender.json",
+          "src/main/java/net/mcreator/naturesexpert/block/LavenderBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/lavender.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/lavender.json",
+          "src/main/resources/assets/natures_expert/blockstates/lavender.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/lavender.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/lavender_biome_modifier.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/lavender.json"
+        ]
+      }
+    },
+    {
+      "name": "AmaryllisDyeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amaryllis_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/amaryllis_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AnemoneDyeRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anemone_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/anemone_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AstilbeDyeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "astilbe_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/astilbe_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BluePassionFlowerDyeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_passion_flower_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/blue_passion_flower_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CallaLilyDyeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calla_lily_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/calla_lily_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CarnationDyeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carnation_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/carnation_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "ForgetMeNotsDyeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forget_me_nots_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/forget_me_nots_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "HyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/hyacinth_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LavenderDyeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lavender_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/lavender_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Shamrock",
+      "type": "plant",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shamrock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/shamrock_biome_modifier.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/shamrock.json",
+          "src/main/resources/assets/natures_expert/models/item/shamrock.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/shamrock.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/shamrock.json",
+          "src/main/resources/assets/natures_expert/blockstates/shamrock.json",
+          "src/main/java/net/mcreator/naturesexpert/block/ShamrockBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/shamrock.json"
+        ]
+      }
+    },
+    {
+      "name": "LuckyShamrock",
+      "type": "plant",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lucky_shamrock",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/LuckyShamrockBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/lucky_shamrock.json",
+          "src/main/resources/assets/natures_expert/blockstates/lucky_shamrock.json",
+          "src/main/resources/assets/natures_expert/models/block/lucky_shamrock.json",
+          "src/main/resources/assets/natures_expert/models/item/lucky_shamrock.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "block.natures_expert.forget_me_nots": "Forget Me Nots",
+      "block.natures_expert.blue_passion_flower": "Blue Passion Flower",
+      "block.natures_expert.hyacinth": "Hyacinth",
+      "block.natures_expert.lavender": "Lavender",
+      "block.natures_expert.shamrock": "Shamrock",
+      "block.natures_expert.amaryllis": "Amaryllis",
+      "block.natures_expert.carnation": "Carnation",
+      "block.natures_expert.calla_lily": "Calla Lily",
+      "block.natures_expert.anemone": "Anemone",
+      "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
+      "block.natures_expert.astilbe": "Astilbe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "natures_expert",
+    "modName": "Nature\u0027s Expert",
+    "version": "1.0.0",
+    "author": "willk, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.20.4",
+    "modElementsPackage": "net.mcreator.naturesexpert"
+  },
+  "mcreatorVersion": 202400117319
+}
