@@ -345,6 +345,46 @@
           "src/main/resources/data/natures_expert/worldgen/placed_feature/shamrock_gen.json"
         ]
       }
+    },
+    {
+      "name": "NaturesEncyclopedia",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "natures_encyclopedia",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/item/NaturesEncyclopediaItem.java",
+          "src/main/resources/assets/natures_expert/models/item/natures_encyclopedia.json"
+        ]
+      }
+    },
+    {
+      "name": "ShamrockDyeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shamrock_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/shamrock_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LuckyShamrockDyeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lucky_shamrock_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/lucky_shamrock_dye_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -355,14 +395,15 @@
       "block.natures_expert.forget_me_nots": "Forget Me Nots",
       "block.natures_expert.blue_passion_flower": "Blue Passion Flower",
       "block.natures_expert.hyacinth": "Hyacinth",
-      "block.natures_expert.lavender": "Lavender",
+      "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
       "block.natures_expert.shamrock": "Shamrock",
       "block.natures_expert.amaryllis": "Amaryllis",
       "block.natures_expert.carnation": "Carnation",
-      "block.natures_expert.calla_lily": "Calla Lily",
-      "block.natures_expert.anemone": "Anemone",
       "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
-      "block.natures_expert.astilbe": "Astilbe"
+      "block.natures_expert.astilbe": "Astilbe",
+      "block.natures_expert.lavender": "Lavender",
+      "block.natures_expert.calla_lily": "Calla Lily",
+      "block.natures_expert.anemone": "Anemone"
     }
   },
   "foldersRoot": {
@@ -375,13 +416,14 @@
     "version": "1.0.0",
     "author": "willk, MCreator",
     "websiteURL": "https://mcreator.net",
-    "license": "Not specified",
+    "license": "MIT License",
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "neoforge-1.20.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.naturesexpert"
   },
   "mcreatorVersion": 202400117319

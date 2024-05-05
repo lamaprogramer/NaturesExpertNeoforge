@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "natures_expert:lucky_shamrock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 2
+  }
+}

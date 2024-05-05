@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[2,)"
-license="Not specified"
+license="MIT License"
 
 [[mods]]
 modId="natures_expert"
