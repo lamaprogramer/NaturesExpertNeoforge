@@ -1,0 +1,16 @@
+{
+  "name": "Shamrock",
+  "icon": "natures_expert:shamrock",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Clover that is found in plains. This clover is found in large groups between Y levels of 60 and 128."
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Shamrock",
+      "image": "natures_expert:textures/block/shamrock.png"
+    }
+  ]
+}

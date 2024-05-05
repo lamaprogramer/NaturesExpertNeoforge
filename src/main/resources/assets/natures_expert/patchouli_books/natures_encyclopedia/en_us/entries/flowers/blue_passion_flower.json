@@ -1,0 +1,16 @@
+{
+  "name": "Blue Passion Flower",
+  "icon": "natures_expert:blue_passion_flower",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A blue and yellow flower that can be found in savannas. This flower blooms by itself."
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Blue Passion Flower",
+      "image": "natures_expert:textures/block/blue_passion_flower.png"
+    }
+  ]
+}

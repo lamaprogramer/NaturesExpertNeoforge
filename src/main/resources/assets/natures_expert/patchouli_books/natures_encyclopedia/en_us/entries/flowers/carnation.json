@@ -1,0 +1,16 @@
+{
+  "name": "Carnation",
+  "icon": "natures_expert:carnation",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A pink flower that can be found in forests. This flower blooms in groups of 1-16."
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Carnation",
+      "image": "natures_expert:textures/block/carnation.png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Calla Lily",
+  "icon": "natures_expert:calla_lily",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A white flower that can be found in forests. This flower blooms in groups of 1-16."
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Calla Lily",
+      "image": "natures_expert:textures/block/calla_lily.png"
+    }
+  ]
+}

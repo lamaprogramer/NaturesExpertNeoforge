@@ -1,0 +1,16 @@
+{
+  "name": "Anemone",
+  "icon": "natures_expert:anemone",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A White and black flower that can be found in snowy plains. This flower blooms in groups of 1-16."
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Anemone",
+      "image": "natures_expert:textures/block/anemone.png"
+    }
+  ]
+}

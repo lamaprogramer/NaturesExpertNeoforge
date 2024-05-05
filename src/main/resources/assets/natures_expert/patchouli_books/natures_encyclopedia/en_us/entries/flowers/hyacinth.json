@@ -1,0 +1,16 @@
+{
+  "name": "Hyacinth",
+  "icon": "natures_expert:hyacinth",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A bush of blue flowers that can be found in most cold biomes. These flowers bloom in groups of 1-32."
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Hyacinth",
+      "image": "natures_expert:textures/block/hyacinth.png"
+    }
+  ]
+}
