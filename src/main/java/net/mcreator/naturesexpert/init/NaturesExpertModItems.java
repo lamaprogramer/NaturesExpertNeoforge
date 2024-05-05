@@ -13,6 +13,7 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.core.registries.BuiltInRegistries;
 
+import net.mcreator.naturesexpert.item.NaturesEncyclopediaItem;
 import net.mcreator.naturesexpert.NaturesExpertMod;
 
 public class NaturesExpertModItems {
@@ -28,6 +29,7 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> LAVENDER = block(NaturesExpertModBlocks.LAVENDER);
 	public static final DeferredHolder<Item, Item> SHAMROCK = block(NaturesExpertModBlocks.SHAMROCK);
 	public static final DeferredHolder<Item, Item> LUCKY_SHAMROCK = block(NaturesExpertModBlocks.LUCKY_SHAMROCK);
+	public static final DeferredHolder<Item, Item> NATURES_ENCYCLOPEDIA = REGISTRY.register("natures_encyclopedia", () -> new NaturesEncyclopediaItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
