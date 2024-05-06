@@ -1,7 +1,8 @@
 {
   "type": "minecraft:random_patch",
   "config": {
-    "tries": 96,
+    "tries": 64,
+    "xz_spread": 5,
     "feature": {
       "feature": {
         "type": "minecraft:simple_block",
@@ -13,7 +14,7 @@
                 "data": {
                   "Name": "natures_expert:shamrock"
                 },
-                "weight": 40
+                "weight": 30
               },
               {
                 "data": {

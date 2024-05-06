@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A blue and yellow flower that can be found in savannas. This flower blooms by itself."
+      "text": "A blue and yellow flower that is part of the Passifloraceae family. <br> <li>Can be found in savannas.</> <br> <li>Blooms by itself.</>"
     },
     {
       "type": "natures_expert:flower_display",

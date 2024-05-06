@@ -33,6 +33,7 @@ public class NaturesExpertModTabs {
 			tabData.accept(NaturesExpertModBlocks.LAVENDER.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.SHAMROCK.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.LUCKY_SHAMROCK.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.MARIGOLD.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(NaturesExpertModItems.NATURES_ENCYCLOPEDIA.get());
 		}

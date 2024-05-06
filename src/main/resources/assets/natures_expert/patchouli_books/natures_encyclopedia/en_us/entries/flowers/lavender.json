@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Purple flowers that can be found in plains. These flowers bloom in groups of 1-48."
+      "text": "Purple flowers that are part of the Lamiaceae family. <br> <li>Can be found in plains.</> <br> <li>Blooms in groups of 1-48.</>"
     },
     {
       "type": "natures_expert:flower_display",

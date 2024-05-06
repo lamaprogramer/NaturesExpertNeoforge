@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Clover that is found in plains. This clover is found in large groups between Y levels of 60 and 128."
+      "text": "A green clover that is part of the Oxalidaceae family. <br> <li>Can be found in plains.</> <br> <li>Blooms in large groups.</>"
     },
     {
       "type": "natures_expert:flower_display",

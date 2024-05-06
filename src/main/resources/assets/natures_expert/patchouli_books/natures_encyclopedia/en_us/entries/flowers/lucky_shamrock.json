@@ -2,6 +2,8 @@
   "name": "Lucky Shamrock",
   "icon": "natures_expert:lucky_shamrock",
   "category": "natures_expert:flowers",
+  "advancement": "natures_expert:lucky_advancement",
+  "secret": true,
   "pages": [
     {
       "type": "patchouli:text",

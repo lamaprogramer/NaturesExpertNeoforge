@@ -6,9 +6,12 @@
   "block.natures_expert.shamrock": "Shamrock",
   "block.natures_expert.amaryllis": "Amaryllis",
   "block.natures_expert.carnation": "Carnation",
+  "advancements.lucky_advancement.title": "Lucky!",
   "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
   "block.natures_expert.astilbe": "Astilbe",
+  "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
   "block.natures_expert.lavender": "Lavender",
   "block.natures_expert.calla_lily": "Calla Lily",
-  "block.natures_expert.anemone": "Anemone"
+  "block.natures_expert.anemone": "Anemone",
+  "block.natures_expert.marigold": "Marigold"
 }

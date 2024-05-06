@@ -385,6 +385,65 @@
           "src/main/resources/data/natures_expert/recipes/lucky_shamrock_dye_recipe.json"
         ]
       }
+    },
+    {
+      "name": "LuckyAdvancement",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lucky_advancement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/advancements/lucky_advancement.json"
+        ]
+      }
+    },
+    {
+      "name": "Marigold",
+      "type": "plant",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marigold",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/marigold.json",
+          "src/main/java/net/mcreator/naturesexpert/block/MarigoldBlock.java",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/marigold_biome_modifier.json",
+          "src/main/resources/assets/natures_expert/models/block/marigold.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/marigold.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/marigold.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/marigold.json",
+          "src/main/resources/assets/natures_expert/blockstates/marigold.json"
+        ]
+      }
+    },
+    {
+      "name": "MarigoldDyeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marigold_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/marigold_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LuckPotionRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luck_potion_recipe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/recipes/brewing/LuckPotionRecipeBrewingRecipe.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -399,11 +458,14 @@
       "block.natures_expert.shamrock": "Shamrock",
       "block.natures_expert.amaryllis": "Amaryllis",
       "block.natures_expert.carnation": "Carnation",
+      "advancements.lucky_advancement.title": "Lucky!",
       "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
       "block.natures_expert.astilbe": "Astilbe",
+      "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
       "block.natures_expert.lavender": "Lavender",
       "block.natures_expert.calla_lily": "Calla Lily",
-      "block.natures_expert.anemone": "Anemone"
+      "block.natures_expert.anemone": "Anemone",
+      "block.natures_expert.marigold": "Marigold"
     }
   },
   "foldersRoot": {

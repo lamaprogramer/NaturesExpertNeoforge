@@ -1,0 +1,15 @@
+{
+  "name": "Marigold",
+  "icon": "natures_expert:marigold",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A yellowish-gold flower that is part of the Asteraceae family. <br> <li>Can be found in plains.</> <br> <li>Blooms in groups of 1-16.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "image": "natures_expert:textures/block/marigold.png"
+    }
+  ]
+}

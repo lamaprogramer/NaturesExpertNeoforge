@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A pink flower that can be found in forests. This flower blooms in groups of 1-16."
+      "text": "A pink flower that is part of the Caryophyllaceae family. <br> <li>Can be found in forests.</> <br> <li>Blooms in groups of 1-16.</>"
     },
     {
       "type": "natures_expert:flower_display",

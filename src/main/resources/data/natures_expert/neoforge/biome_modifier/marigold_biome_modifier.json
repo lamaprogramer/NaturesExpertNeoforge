@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "plains",
+  "features": "natures_expert:marigold",
+  "step": "vegetal_decoration"
+}

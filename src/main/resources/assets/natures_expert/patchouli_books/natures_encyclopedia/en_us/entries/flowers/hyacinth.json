@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush of blue flowers that can be found in most cold biomes. These flowers bloom in groups of 1-32."
+      "text": "A bush of blue flowers that is part of the Asparagaceae family. <br> <li>Can be found in most cold environments.</> <br> <li>Blooms in groups of 1-32.</>"
     },
     {
       "type": "natures_expert:flower_display",

@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A red flower that can be found in forests. This flower blooms in groups of 1-3, making it relatively rare."
+      "text": "A vibrant red flower that is part of the Amaryllidaceae family. <br> <li>Can be found in forests.</> <br> <li>Blooms in groups of 1-3.</>"
     },
     {
       "type": "natures_expert:flower_display",

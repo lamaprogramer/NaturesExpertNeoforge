@@ -11,6 +11,7 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.core.registries.BuiltInRegistries;
 
 import net.mcreator.naturesexpert.block.ShamrockBlock;
+import net.mcreator.naturesexpert.block.MarigoldBlock;
 import net.mcreator.naturesexpert.block.LuckyShamrockBlock;
 import net.mcreator.naturesexpert.block.LavenderBlock;
 import net.mcreator.naturesexpert.block.HyacinthBlock;
@@ -36,6 +37,7 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> LAVENDER = REGISTRY.register("lavender", () -> new LavenderBlock());
 	public static final DeferredHolder<Block, Block> SHAMROCK = REGISTRY.register("shamrock", () -> new ShamrockBlock());
 	public static final DeferredHolder<Block, Block> LUCKY_SHAMROCK = REGISTRY.register("lucky_shamrock", () -> new LuckyShamrockBlock());
+	public static final DeferredHolder<Block, Block> MARIGOLD = REGISTRY.register("marigold", () -> new MarigoldBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }
