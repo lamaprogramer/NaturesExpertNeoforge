@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "desert",
+    "badlands",
+    "wooded_badlands"
+  ],
+  "features": "natures_expert:brittlebush",
+  "step": "vegetal_decoration"
+}

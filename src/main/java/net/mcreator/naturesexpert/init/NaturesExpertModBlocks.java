@@ -18,6 +18,7 @@ import net.mcreator.naturesexpert.block.HyacinthBlock;
 import net.mcreator.naturesexpert.block.ForgetMeNotsBlock;
 import net.mcreator.naturesexpert.block.CarnationBlock;
 import net.mcreator.naturesexpert.block.CallaLilyBlock;
+import net.mcreator.naturesexpert.block.BrittlebushBlock;
 import net.mcreator.naturesexpert.block.BluePassionFlowerBlock;
 import net.mcreator.naturesexpert.block.AstilbeBlock;
 import net.mcreator.naturesexpert.block.AnemoneBlock;
@@ -38,6 +39,7 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> SHAMROCK = REGISTRY.register("shamrock", () -> new ShamrockBlock());
 	public static final DeferredHolder<Block, Block> LUCKY_SHAMROCK = REGISTRY.register("lucky_shamrock", () -> new LuckyShamrockBlock());
 	public static final DeferredHolder<Block, Block> MARIGOLD = REGISTRY.register("marigold", () -> new MarigoldBlock());
+	public static final DeferredHolder<Block, Block> BRITTLEBUSH = REGISTRY.register("brittlebush", () -> new BrittlebushBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

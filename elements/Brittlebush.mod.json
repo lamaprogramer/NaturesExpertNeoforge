@@ -3,7 +3,7 @@
   "_type": "plant",
   "definition": {
     "renderType": 12,
-    "texture": "blue_passion_flower",
+    "texture": "brittlebush",
     "textureBottom": "",
     "customModelName": "Cross model",
     "itemTexture": "",
@@ -11,9 +11,9 @@
     "tintType": "No tint",
     "isItemTinted": false,
     "plantType": "normal",
-    "suspiciousStewEffect": "WITHER",
+    "suspiciousStewEffect": "SPEED",
     "suspiciousStewDuration": 100,
-    "growapableSpawnType": "Plains",
+    "growapableSpawnType": "Desert",
     "growapableMaxHeight": 3,
     "customBoundingBox": false,
     "disableOffset": false,
@@ -28,7 +28,7 @@
         "subtract": false
       }
     ],
-    "name": "Blue Passion Flower",
+    "name": "Brittlebush",
     "specialInformation": {
       "fixedValue": []
     },
@@ -78,23 +78,36 @@
     "fireSpreadSpeed": 60,
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
-    "canBePlacedOn": [],
+    "canBePlacedOn": [
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
     "isBonemealable": false,
-    "frequencyOnChunks": 3,
+    "frequencyOnChunks": 5,
     "generateFeature": true,
     "restrictionBiomes": [
       {
-        "value": "mutated_extreme_hills"
+        "value": "desert"
       },
       {
-        "value": "jungle"
+        "value": "badlands"
       },
       {
-        "value": "jungle_edge"
+        "value": "wooded_badlands_plateau"
       }
     ],
     "generationType": "Flower",
-    "patchSize": 8,
+    "patchSize": 48,
     "generateAtAnyHeight": false
   }
 }
