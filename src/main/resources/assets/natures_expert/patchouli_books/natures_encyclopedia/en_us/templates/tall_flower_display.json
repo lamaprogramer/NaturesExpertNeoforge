@@ -1,0 +1,31 @@
+{
+  "components": [
+    {
+      "type": "patchouli:image",
+      "image": "#top_image#",
+      "width": 57,
+      "height": 57,
+      "texture_width": 57,
+      "texture_height": 57,
+      "x": 28,
+      "y": 20
+    },
+    {
+      "type": "patchouli:image",
+      "image": "#bottom_image#",
+      "width": 57,
+      "height": 57,
+      "texture_width": 57,
+      "texture_height": 57,
+      "x": 28,
+      "y": 77
+    },
+    {
+      "type": "patchouli:header",
+      "text": "#title#",
+      "centered": true,
+      "x": -1,
+      "y": -1
+    }
+  ]
+}

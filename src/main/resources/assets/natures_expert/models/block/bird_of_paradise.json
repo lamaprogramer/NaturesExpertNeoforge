@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/bird_of_paradise",
+    "particle": "natures_expert:block/bird_of_paradise"
+  },
+  "render_type": "cutout"
+}

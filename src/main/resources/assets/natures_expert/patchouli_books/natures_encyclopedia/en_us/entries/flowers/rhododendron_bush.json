@@ -1,0 +1,17 @@
+{
+  "name": "Rhododendron Bush",
+  "icon": "natures_expert:rhododendron_bush",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A bush with silver leaves and yellow flowers that is part of the Asteraceae family. <br> <li>Can be found in deserts and badlands.</> <br> <li>Blooms in groups of 1-48.</>"
+    },
+    {
+      "type": "natures_expert:tall_flower_display",
+      "title": "Rhododendron Bush",
+      "top_image": "natures_expert:textures/block/rhododendron_bush_top.png",
+      "bottom_image": "natures_expert:textures/block/rhododendron_bush_bottom.png"
+    }
+  ]
+}

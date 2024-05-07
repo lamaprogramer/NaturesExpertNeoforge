@@ -9,6 +9,7 @@
     },
     {
       "type": "natures_expert:flower_display",
+      "title": "Marigold",
       "image": "natures_expert:textures/block/marigold.png"
     }
   ]

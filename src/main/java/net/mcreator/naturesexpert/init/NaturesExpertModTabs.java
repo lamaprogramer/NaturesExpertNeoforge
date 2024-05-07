@@ -29,12 +29,20 @@ public class NaturesExpertModTabs {
 			tabData.accept(NaturesExpertModBlocks.BLUE_PASSION_FLOWER.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.CALLA_LILY.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.FORGET_ME_NOTS.get().asItem());
-			tabData.accept(NaturesExpertModBlocks.HYACINTH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.LAVENDER.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.SHAMROCK.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.LUCKY_SHAMROCK.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.MARIGOLD.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.BRITTLEBUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.BIRD_OF_PARADISE.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.RHODODENDRON_BUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.BLUE_HYACINTH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.LIGHT_BLUE_HYACINTH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.RED_HYACINTH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.PURPLE_HYACINTH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.YELLOW_HYACINTH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.ORANGE_HYACINTH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.PINK_HYACINTH.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(NaturesExpertModItems.NATURES_ENCYCLOPEDIA.get());
 		}

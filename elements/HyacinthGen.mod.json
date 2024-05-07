@@ -1,0 +1,19 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "VEGETAL_DECORATION",
+    "restrictionBiomes": [
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "frozen_peaks"
+      },
+      {
+        "value": "meadow"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"275\" y=\"58\"><value name=\"feature\"><block type=\"feature_simple_random_selector\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"7\"></mutation><value name=\"feature0\"><block type=\"feature_random_patch_simple\"><field name=\"tries\">128</field><field name=\"xzSpread\">4</field><field name=\"ySpread\">3</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:BlueHyacinth</field></block></value><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value><value name=\"feature1\"><block type=\"feature_random_patch_simple\"><field name=\"tries\">128</field><field name=\"xzSpread\">4</field><field name=\"ySpread\">3</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:LightBlueHyacinth</field></block></value><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value><value name=\"feature2\"><block type=\"feature_random_patch_simple\"><field name=\"tries\">128</field><field name=\"xzSpread\">4</field><field name=\"ySpread\">3</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:RedHyacinth</field></block></value><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value><value name=\"feature3\"><block type=\"feature_random_patch_simple\"><field name=\"tries\">128</field><field name=\"xzSpread\">4</field><field name=\"ySpread\">3</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:PurpleHyacinth</field></block></value><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value><value name=\"feature4\"><block type=\"feature_random_patch_simple\"><field name=\"tries\">128</field><field name=\"xzSpread\">4</field><field name=\"ySpread\">3</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:YellowHyacinth</field></block></value><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value><value name=\"feature5\"><block type=\"feature_random_patch_simple\"><field name=\"tries\">128</field><field name=\"xzSpread\">4</field><field name=\"ySpread\">3</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:OrangeHyacinth</field></block></value><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value><value name=\"feature6\"><block type=\"feature_random_patch_simple\"><field name=\"tries\">128</field><field name=\"xzSpread\">4</field><field name=\"ySpread\">3</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:PinkHyacinth</field></block></value><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value></block></value><next><block type=\"placement_height_range\"><value name=\"height\"><block type=\"height_provider_uniform\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">60</field></block></value><value name=\"max\"><block type=\"vertical_anchor_below_top\"><field name=\"value\">0</field></block></value></block></value></block></next></block></xml>"
+  }
+}

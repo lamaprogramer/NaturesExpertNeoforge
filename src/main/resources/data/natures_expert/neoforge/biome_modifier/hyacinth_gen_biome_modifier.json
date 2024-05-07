@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "snowy_plains",
+    "frozen_peaks",
+    "meadow"
+  ],
+  "features": "natures_expert:hyacinth_gen",
+  "step": "vegetal_decoration"
+}

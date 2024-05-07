@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/pink_hyacinth",
+    "particle": "natures_expert:block/pink_hyacinth"
+  },
+  "render_type": "cutout"
+}

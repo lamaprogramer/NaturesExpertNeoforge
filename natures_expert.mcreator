@@ -141,26 +141,6 @@
       }
     },
     {
-      "name": "Hyacinth",
-      "type": "plant",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hyacinth",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/natures_expert/worldgen/configured_feature/hyacinth.json",
-          "src/main/resources/assets/natures_expert/models/item/hyacinth.json",
-          "src/main/resources/assets/natures_expert/models/block/hyacinth.json",
-          "src/main/resources/data/natures_expert/neoforge/biome_modifier/hyacinth_biome_modifier.json",
-          "src/main/resources/data/natures_expert/worldgen/placed_feature/hyacinth.json",
-          "src/main/resources/assets/natures_expert/blockstates/hyacinth.json",
-          "src/main/java/net/mcreator/naturesexpert/block/HyacinthBlock.java",
-          "src/main/resources/data/natures_expert/loot_tables/blocks/hyacinth.json"
-        ]
-      }
-    },
-    {
       "name": "Lavender",
       "type": "plant",
       "sortid": 9,
@@ -268,19 +248,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/natures_expert/recipes/forget_me_nots_dye_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "HyacinthDyeRecipe",
-      "type": "recipe",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hyacinth_dye_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/natures_expert/recipes/hyacinth_dye_recipe.json"
         ]
       }
     },
@@ -464,6 +431,282 @@
           "src/main/resources/assets/natures_expert/models/block/brittlebush.json"
         ]
       }
+    },
+    {
+      "name": "BirdOfParadise",
+      "type": "plant",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bird_of_paradise",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/bird_of_paradise_biome_modifier.json",
+          "src/main/resources/assets/natures_expert/models/block/bird_of_paradise.json",
+          "src/main/resources/assets/natures_expert/models/item/bird_of_paradise.json",
+          "src/main/resources/assets/natures_expert/blockstates/bird_of_paradise.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/bird_of_paradise.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/bird_of_paradise.json",
+          "src/main/java/net/mcreator/naturesexpert/block/BirdOfParadiseBlock.java",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/bird_of_paradise.json"
+        ]
+      }
+    },
+    {
+      "name": "BirdOfParadiseDyeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bird_of_paradise_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/bird_of_paradise_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RhododendronBush",
+      "type": "plant",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rhododendron_bush",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/item/rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/rhododendron_bush.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/rhododendron_bush_bottom.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RhododendronBushBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BlueHyacinth",
+      "type": "plant",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/blue_hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/block/blue_hyacinth.json",
+          "src/main/resources/assets/natures_expert/blockstates/blue_hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/BlueHyacinthBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/blue_hyacinth.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueHyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/blue_hyacinth_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlueHyacinth",
+      "type": "plant",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/light_blue_hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/LightBlueHyacinthBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/light_blue_hyacinth.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/light_blue_hyacinth.json",
+          "src/main/resources/assets/natures_expert/blockstates/light_blue_hyacinth.json"
+        ]
+      }
+    },
+    {
+      "name": "RedHyacinth",
+      "type": "plant",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/red_hyacinth.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/block/red_hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedHyacinthBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/red_hyacinth.json"
+        ]
+      }
+    },
+    {
+      "name": "PurpleHyacinth",
+      "type": "plant",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/purple_hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/item/purple_hyacinth.json",
+          "src/main/resources/assets/natures_expert/blockstates/purple_hyacinth.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/purple_hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PurpleHyacinthBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "YellowHyacinth",
+      "type": "plant",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/yellow_hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/YellowHyacinthBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/yellow_hyacinth.json",
+          "src/main/resources/assets/natures_expert/blockstates/yellow_hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/block/yellow_hyacinth.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeHyacinth",
+      "type": "plant",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/orange_hyacinth.json",
+          "src/main/resources/assets/natures_expert/blockstates/orange_hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/block/orange_hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/OrangeHyacinthBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/orange_hyacinth.json"
+        ]
+      }
+    },
+    {
+      "name": "HyacinthGen",
+      "type": "feature",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyacinth_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/hyacinth_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/hyacinth_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/hyacinth_gen.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkHyacinth",
+      "type": "plant",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_hyacinth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/pink_hyacinth.json",
+          "src/main/resources/assets/natures_expert/models/block/pink_hyacinth.json",
+          "src/main/resources/assets/natures_expert/blockstates/pink_hyacinth.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/pink_hyacinth.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PinkHyacinthBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "RedHyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/red_hyacinth_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlueHyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/light_blue_hyacinth_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkHyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/pink_hyacinth_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PurpleHyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/purple_hyacinth_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeHyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/orange_hyacinth_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowHyacinthDyeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_hyacinth_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/yellow_hyacinth_dye_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -471,22 +714,30 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
-      "block.natures_expert.forget_me_nots": "Forget Me Nots",
-      "block.natures_expert.blue_passion_flower": "Blue Passion Flower",
-      "block.natures_expert.hyacinth": "Hyacinth",
-      "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
-      "block.natures_expert.shamrock": "Shamrock",
+      "block.natures_expert.bird_of_paradise": "Bird Of Paradise",
       "block.natures_expert.amaryllis": "Amaryllis",
       "block.natures_expert.carnation": "Carnation",
       "advancements.lucky_advancement.title": "Lucky!",
-      "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
+      "block.natures_expert.light_blue_hyacinth": "Light Blue Hyacinth",
       "block.natures_expert.astilbe": "Astilbe",
-      "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
+      "block.natures_expert.rhododendron_bush": "Rhododendron Bush",
+      "block.natures_expert.red_hyacinth": "Red Hyacinth",
+      "block.natures_expert.blue_hyacinth": "Blue Hyacinth",
       "block.natures_expert.lavender": "Lavender",
-      "block.natures_expert.calla_lily": "Calla Lily",
       "block.natures_expert.anemone": "Anemone",
+      "block.natures_expert.yellow_hyacinth": "Yellow Hyacinth",
+      "block.natures_expert.forget_me_nots": "Forget Me Nots",
+      "block.natures_expert.blue_passion_flower": "Blue Passion Flower",
+      "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
+      "block.natures_expert.shamrock": "Shamrock",
+      "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
+      "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
+      "block.natures_expert.orange_hyacinth": "Orange Hyacinth",
+      "block.natures_expert.pink_hyacinth": "Pink Hyacinth",
+      "block.natures_expert.calla_lily": "Calla Lily",
       "block.natures_expert.brittlebush": "Brittlebush",
-      "block.natures_expert.marigold": "Marigold"
+      "block.natures_expert.marigold": "Marigold",
+      "block.natures_expert.purple_hyacinth": "Purple Hyacinth"
     }
   },
   "foldersRoot": {

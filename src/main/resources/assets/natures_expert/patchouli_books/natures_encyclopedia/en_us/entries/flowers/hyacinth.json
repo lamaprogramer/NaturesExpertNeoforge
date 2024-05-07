@@ -1,6 +1,6 @@
 {
   "name": "Hyacinth",
-  "icon": "natures_expert:hyacinth",
+  "icon": "natures_expert:blue_hyacinth",
   "category": "natures_expert:flowers",
   "pages": [
     {
@@ -9,8 +9,38 @@
     },
     {
       "type": "natures_expert:flower_display",
-      "title": "Hyacinth",
-      "image": "natures_expert:textures/block/hyacinth.png"
+      "title": "Red Hyacinth",
+      "image": "natures_expert:textures/block/red_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Orange Hyacinth",
+      "image": "natures_expert:textures/block/orange_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Yellow Hyacinth",
+      "image": "natures_expert:textures/block/yellow_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Light Blue Hyacinth",
+      "image": "natures_expert:textures/block/light_blue_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Blue Hyacinth",
+      "image": "natures_expert:textures/block/blue_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Purple Hyacinth",
+      "image": "natures_expert:textures/block/purple_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Pink Hyacinth",
+      "image": "natures_expert:textures/block/pink_hyacinth.png"
     }
   ]
 }
