@@ -13,8 +13,8 @@ import net.minecraft.world.level.BlockGetter;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
-public class RhododendronBushBlock extends DoublePlantBlock {
-	public RhododendronBushBlock() {
+public class PurpleRhododendronBushBlock extends DoublePlantBlock {
+	public PurpleRhododendronBushBlock() {
 		super(BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 

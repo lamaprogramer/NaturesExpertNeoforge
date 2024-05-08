@@ -35,7 +35,6 @@ public class NaturesExpertModTabs {
 			tabData.accept(NaturesExpertModBlocks.MARIGOLD.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.BRITTLEBUSH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.BIRD_OF_PARADISE.get().asItem());
-			tabData.accept(NaturesExpertModBlocks.RHODODENDRON_BUSH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.BLUE_HYACINTH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.LIGHT_BLUE_HYACINTH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.RED_HYACINTH.get().asItem());
@@ -43,6 +42,10 @@ public class NaturesExpertModTabs {
 			tabData.accept(NaturesExpertModBlocks.YELLOW_HYACINTH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.ORANGE_HYACINTH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.PINK_HYACINTH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.PINK_RHODODENDRON_BUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.PURPLE_RHODODENDRON_BUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.ORANGE_RHODODENDRON_BUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.YELLOW_RHODODENDRON_BUSH.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(NaturesExpertModItems.NATURES_ENCYCLOPEDIA.get());
 		}

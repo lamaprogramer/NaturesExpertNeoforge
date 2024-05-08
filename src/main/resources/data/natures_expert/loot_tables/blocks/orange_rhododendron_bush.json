@@ -1,6 +1,6 @@
 {
   "type": "minecraft:block",
-  "random_sequence": "natures_expert:blocks/rhododendron_bush",
+  "random_sequence": "natures_expert:blocks/orange_rhododendron_bush",
   "pools": [
     {
       "rolls": 1.0,
@@ -12,10 +12,10 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "natures_expert:rhododendron_bush",
+          "name": "natures_expert:orange_rhododendron_bush",
           "conditions": [
             {
-              "block": "natures_expert:rhododendron_bush",
+              "block": "natures_expert:orange_rhododendron_bush",
               "condition": "minecraft:block_state_property",
               "properties": {
                 "half": "lower"

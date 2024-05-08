@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "natures_expert:block/rhododendron_bush_bottom",
-    "particle": "natures_expert:block/rhododendron_bush_bottom"
-  },
-  "render_type": "cutout"
-}

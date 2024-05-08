@@ -466,24 +466,6 @@
       }
     },
     {
-      "name": "RhododendronBush",
-      "type": "plant",
-      "sortid": 32,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rhododendron_bush",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/natures_expert/blockstates/rhododendron_bush.json",
-          "src/main/resources/assets/natures_expert/models/item/rhododendron_bush.json",
-          "src/main/resources/assets/natures_expert/models/block/rhododendron_bush.json",
-          "src/main/resources/data/natures_expert/loot_tables/blocks/rhododendron_bush.json",
-          "src/main/resources/assets/natures_expert/models/block/rhododendron_bush_bottom.json",
-          "src/main/java/net/mcreator/naturesexpert/block/RhododendronBushBlock.java"
-        ]
-      }
-    },
-    {
       "name": "BlueHyacinth",
       "type": "plant",
       "sortid": 33,
@@ -707,6 +689,145 @@
           "src/main/resources/data/natures_expert/recipes/yellow_hyacinth_dye_recipe.json"
         ]
       }
+    },
+    {
+      "name": "PinkRhododendronBush",
+      "type": "plant",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_rhododendron_bush",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/pink_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/pink_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/pink_rhododendron_bush_bottom.json",
+          "src/main/resources/assets/natures_expert/blockstates/pink_rhododendron_bush.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/pink_rhododendron_bush.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PinkRhododendronBushBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PurpleRhododendronBush",
+      "type": "plant",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_rhododendron_bush",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/purple_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/item/purple_rhododendron_bush.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/purple_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/blockstates/purple_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/purple_rhododendron_bush_bottom.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PurpleRhododendronBushBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "OrangeRhododendronBush",
+      "type": "plant",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_rhododendron_bush",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/OrangeRhododendronBushBlock.java",
+          "src/main/resources/assets/natures_expert/blockstates/orange_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/item/orange_rhododendron_bush.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/orange_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/orange_rhododendron_bush_bottom.json",
+          "src/main/resources/assets/natures_expert/models/block/orange_rhododendron_bush.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowRhododendronBush",
+      "type": "plant",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_rhododendron_bush",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/YellowRhododendronBushBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/yellow_rhododendron_bush.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/yellow_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/blockstates/yellow_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/yellow_rhododendron_bush_bottom.json",
+          "src/main/resources/assets/natures_expert/models/block/yellow_rhododendron_bush.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkRhododendronBushDyeRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_rhododendron_bush_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/pink_rhododendron_bush_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PurpleRhododendronBushDyeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_rhododendron_bush_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/purple_rhododendron_bush_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeRhododendronBushDyeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_rhododendron_bush_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/orange_rhododendron_bush_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowRhododendronBushDyeRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_rhododendron_bush_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/yellow_rhododendron_bush_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RhododendronBushGen",
+      "type": "feature",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rhododendron_bush_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/rhododendron_bush_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/rhododendron_bush_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/rhododendron_bush_gen.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -715,12 +836,12 @@
   "language_map": {
     "en_us": {
       "block.natures_expert.bird_of_paradise": "Bird Of Paradise",
+      "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
       "block.natures_expert.amaryllis": "Amaryllis",
       "block.natures_expert.carnation": "Carnation",
       "advancements.lucky_advancement.title": "Lucky!",
       "block.natures_expert.light_blue_hyacinth": "Light Blue Hyacinth",
       "block.natures_expert.astilbe": "Astilbe",
-      "block.natures_expert.rhododendron_bush": "Rhododendron Bush",
       "block.natures_expert.red_hyacinth": "Red Hyacinth",
       "block.natures_expert.blue_hyacinth": "Blue Hyacinth",
       "block.natures_expert.lavender": "Lavender",
@@ -731,8 +852,11 @@
       "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
       "block.natures_expert.shamrock": "Shamrock",
       "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
+      "block.natures_expert.yellow_rhododendron_bush": "Yellow Rhododendron Bush",
+      "block.natures_expert.pink_rhododendron_bush": "Pink Rhododendron Bush",
       "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
       "block.natures_expert.orange_hyacinth": "Orange Hyacinth",
+      "block.natures_expert.purple_rhododendron_bush": "Purple Rhododendron Bush",
       "block.natures_expert.pink_hyacinth": "Pink Hyacinth",
       "block.natures_expert.calla_lily": "Calla Lily",
       "block.natures_expert.brittlebush": "Brittlebush",

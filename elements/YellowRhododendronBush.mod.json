@@ -3,8 +3,8 @@
   "_type": "plant",
   "definition": {
     "renderType": 12,
-    "texture": "rhododendron_bush_top",
-    "textureBottom": "rhododendron_bush_bottom",
+    "texture": "yellow_rhododendron_bush_top",
+    "textureBottom": "yellow_rhododendron_bush_bottom",
     "customModelName": "Cross model",
     "itemTexture": "",
     "particleTexture": "",
@@ -28,7 +28,7 @@
         "subtract": false
       }
     ],
-    "name": "Rhododendron Bush",
+    "name": "Yellow Rhododendron Bush",
     "specialInformation": {
       "fixedValue": []
     },

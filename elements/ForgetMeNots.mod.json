@@ -84,13 +84,7 @@
     "generateFeature": true,
     "restrictionBiomes": [
       {
-        "value": "snowy_tundra"
-      },
-      {
-        "value": "meadow"
-      },
-      {
-        "value": "frozen_peaks"
+        "value": "#forge:is_snowy"
       }
     ],
     "generationType": "Flower",

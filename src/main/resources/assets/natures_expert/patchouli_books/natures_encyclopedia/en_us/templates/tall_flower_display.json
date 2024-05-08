@@ -24,6 +24,7 @@
       "type": "patchouli:header",
       "text": "#title#",
       "centered": true,
+      "scale": 0.75,
       "x": -1,
       "y": -1
     }

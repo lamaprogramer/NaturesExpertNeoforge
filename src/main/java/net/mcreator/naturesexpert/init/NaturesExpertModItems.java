@@ -33,7 +33,6 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> MARIGOLD = block(NaturesExpertModBlocks.MARIGOLD);
 	public static final DeferredHolder<Item, Item> BRITTLEBUSH = block(NaturesExpertModBlocks.BRITTLEBUSH);
 	public static final DeferredHolder<Item, Item> BIRD_OF_PARADISE = block(NaturesExpertModBlocks.BIRD_OF_PARADISE);
-	public static final DeferredHolder<Item, Item> RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.RHODODENDRON_BUSH);
 	public static final DeferredHolder<Item, Item> BLUE_HYACINTH = block(NaturesExpertModBlocks.BLUE_HYACINTH);
 	public static final DeferredHolder<Item, Item> LIGHT_BLUE_HYACINTH = block(NaturesExpertModBlocks.LIGHT_BLUE_HYACINTH);
 	public static final DeferredHolder<Item, Item> RED_HYACINTH = block(NaturesExpertModBlocks.RED_HYACINTH);
@@ -41,6 +40,10 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> YELLOW_HYACINTH = block(NaturesExpertModBlocks.YELLOW_HYACINTH);
 	public static final DeferredHolder<Item, Item> ORANGE_HYACINTH = block(NaturesExpertModBlocks.ORANGE_HYACINTH);
 	public static final DeferredHolder<Item, Item> PINK_HYACINTH = block(NaturesExpertModBlocks.PINK_HYACINTH);
+	public static final DeferredHolder<Item, Item> PINK_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.PINK_RHODODENDRON_BUSH);
+	public static final DeferredHolder<Item, Item> PURPLE_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.PURPLE_RHODODENDRON_BUSH);
+	public static final DeferredHolder<Item, Item> ORANGE_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.ORANGE_RHODODENDRON_BUSH);
+	public static final DeferredHolder<Item, Item> YELLOW_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.YELLOW_RHODODENDRON_BUSH);
 
 	// Start of user code block custom items
 	// End of user code block custom items

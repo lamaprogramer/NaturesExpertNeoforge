@@ -84,7 +84,7 @@
     "generateFeature": true,
     "restrictionBiomes": [
       {
-        "value": "snowy_tundra"
+        "value": "#forge:is_snowy"
       }
     ],
     "generationType": "Flower",

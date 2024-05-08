@@ -84,7 +84,7 @@
     "generateFeature": true,
     "restrictionBiomes": [
       {
-        "value": "plains"
+        "value": "#forge:is_plains"
       }
     ],
     "generationType": "Flower",

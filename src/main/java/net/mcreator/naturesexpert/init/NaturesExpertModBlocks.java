@@ -10,12 +10,15 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.core.registries.BuiltInRegistries;
 
+import net.mcreator.naturesexpert.block.YellowRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.YellowHyacinthBlock;
 import net.mcreator.naturesexpert.block.ShamrockBlock;
-import net.mcreator.naturesexpert.block.RhododendronBushBlock;
 import net.mcreator.naturesexpert.block.RedHyacinthBlock;
+import net.mcreator.naturesexpert.block.PurpleRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.PurpleHyacinthBlock;
+import net.mcreator.naturesexpert.block.PinkRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.PinkHyacinthBlock;
+import net.mcreator.naturesexpert.block.OrangeRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.OrangeHyacinthBlock;
 import net.mcreator.naturesexpert.block.MarigoldBlock;
 import net.mcreator.naturesexpert.block.LuckyShamrockBlock;
@@ -48,7 +51,6 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> MARIGOLD = REGISTRY.register("marigold", () -> new MarigoldBlock());
 	public static final DeferredHolder<Block, Block> BRITTLEBUSH = REGISTRY.register("brittlebush", () -> new BrittlebushBlock());
 	public static final DeferredHolder<Block, Block> BIRD_OF_PARADISE = REGISTRY.register("bird_of_paradise", () -> new BirdOfParadiseBlock());
-	public static final DeferredHolder<Block, Block> RHODODENDRON_BUSH = REGISTRY.register("rhododendron_bush", () -> new RhododendronBushBlock());
 	public static final DeferredHolder<Block, Block> BLUE_HYACINTH = REGISTRY.register("blue_hyacinth", () -> new BlueHyacinthBlock());
 	public static final DeferredHolder<Block, Block> LIGHT_BLUE_HYACINTH = REGISTRY.register("light_blue_hyacinth", () -> new LightBlueHyacinthBlock());
 	public static final DeferredHolder<Block, Block> RED_HYACINTH = REGISTRY.register("red_hyacinth", () -> new RedHyacinthBlock());
@@ -56,6 +58,10 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> YELLOW_HYACINTH = REGISTRY.register("yellow_hyacinth", () -> new YellowHyacinthBlock());
 	public static final DeferredHolder<Block, Block> ORANGE_HYACINTH = REGISTRY.register("orange_hyacinth", () -> new OrangeHyacinthBlock());
 	public static final DeferredHolder<Block, Block> PINK_HYACINTH = REGISTRY.register("pink_hyacinth", () -> new PinkHyacinthBlock());
+	public static final DeferredHolder<Block, Block> PINK_RHODODENDRON_BUSH = REGISTRY.register("pink_rhododendron_bush", () -> new PinkRhododendronBushBlock());
+	public static final DeferredHolder<Block, Block> PURPLE_RHODODENDRON_BUSH = REGISTRY.register("purple_rhododendron_bush", () -> new PurpleRhododendronBushBlock());
+	public static final DeferredHolder<Block, Block> ORANGE_RHODODENDRON_BUSH = REGISTRY.register("orange_rhododendron_bush", () -> new OrangeRhododendronBushBlock());
+	public static final DeferredHolder<Block, Block> YELLOW_RHODODENDRON_BUSH = REGISTRY.register("yellow_rhododendron_bush", () -> new YellowRhododendronBushBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

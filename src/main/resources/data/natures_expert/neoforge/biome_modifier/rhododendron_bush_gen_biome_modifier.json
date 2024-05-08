@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_forest",
+  "features": "natures_expert:rhododendron_bush_gen",
+  "step": "vegetal_decoration"
+}

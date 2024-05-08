@@ -97,13 +97,7 @@
     "generateFeature": true,
     "restrictionBiomes": [
       {
-        "value": "desert"
-      },
-      {
-        "value": "badlands"
-      },
-      {
-        "value": "wooded_badlands_plateau"
+        "value": "#forge:is_dry"
       }
     ],
     "generationType": "Flower",

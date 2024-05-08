@@ -1,10 +1,6 @@
 {
   "type": "neoforge:add_features",
-  "biomes": [
-    "desert",
-    "badlands",
-    "wooded_badlands"
-  ],
+  "biomes": "#forge:is_dry",
   "features": "natures_expert:brittlebush",
   "step": "vegetal_decoration"
 }

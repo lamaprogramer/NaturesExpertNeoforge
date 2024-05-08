@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "natures_expert:block/purple_rhododendron_bush"
+    },
+    "half=lower": {
+      "model": "natures_expert:block/purple_rhododendron_bush_bottom"
+    }
+  }
+}

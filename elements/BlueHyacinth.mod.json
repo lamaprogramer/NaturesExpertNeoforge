@@ -82,17 +82,7 @@
     "isBonemealable": false,
     "frequencyOnChunks": 3,
     "generateFeature": false,
-    "restrictionBiomes": [
-      {
-        "value": "snowy_tundra"
-      },
-      {
-        "value": "frozen_peaks"
-      },
-      {
-        "value": "meadow"
-      }
-    ],
+    "restrictionBiomes": [],
     "generationType": "Flower",
     "patchSize": 32,
     "generateAtAnyHeight": false
