@@ -7,6 +7,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -38,6 +39,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -69,6 +71,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -100,6 +103,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -131,6 +135,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -162,6 +167,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -193,6 +199,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -224,6 +231,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
@@ -255,6 +263,7 @@
           "type": "minecraft:random_patch",
           "config": {
             "tries": 96,
+            "xz_spread": 4,
             "feature": {
               "feature": {
                 "type": "minecraft:simple_block",
