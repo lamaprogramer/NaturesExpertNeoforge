@@ -46,6 +46,17 @@ public class NaturesExpertModTabs {
 			tabData.accept(NaturesExpertModBlocks.PURPLE_RHODODENDRON_BUSH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.ORANGE_RHODODENDRON_BUSH.get().asItem());
 			tabData.accept(NaturesExpertModBlocks.YELLOW_RHODODENDRON_BUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.RED_RHODODENDRON_BUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.WHITE_RHODODENDRON_BUSH.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.RED_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.BLUE_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.LIGHT_BLUE_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.YELLOW_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.ORANGE_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.PURPLE_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.PINK_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.WHITE_BEARDED_IRIS.get().asItem());
+			tabData.accept(NaturesExpertModBlocks.BLACK_BEARDED_IRIS.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(NaturesExpertModItems.NATURES_ENCYCLOPEDIA.get());
 		}

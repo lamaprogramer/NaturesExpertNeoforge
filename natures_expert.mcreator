@@ -828,6 +828,353 @@
           "src/main/resources/data/natures_expert/worldgen/configured_feature/rhododendron_bush_gen.json"
         ]
       }
+    },
+    {
+      "name": "RedRhododendronBush",
+      "type": "plant",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_rhododendron_bush",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/red_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/red_rhododendron_bush_bottom.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedRhododendronBushBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/red_rhododendron_bush.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/item/red_rhododendron_bush.json"
+        ]
+      }
+    },
+    {
+      "name": "RedRhododendronBushDyeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_rhododendron_bush_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/red_rhododendron_bush_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WhiteRhododendronBush",
+      "type": "plant",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_rhododendron_bush",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/white_rhododendron_bush_bottom.json",
+          "src/main/java/net/mcreator/naturesexpert/block/WhiteRhododendronBushBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/white_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/blockstates/white_rhododendron_bush.json",
+          "src/main/resources/assets/natures_expert/models/block/white_rhododendron_bush.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/white_rhododendron_bush.json"
+        ]
+      }
+    },
+    {
+      "name": "WhiteRhododendronBushDyeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_rhododendron_bush_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/white_rhododendron_bush_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedBeardedIris",
+      "type": "plant",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/red_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedBeardedIrisBlock.java",
+          "src/main/resources/assets/natures_expert/blockstates/red_bearded_iris.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/item/red_bearded_iris.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueBeardedIris",
+      "type": "plant",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/blue_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/BlueBeardedIrisBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/blue_bearded_iris.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/blue_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/blockstates/blue_bearded_iris.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlueBeardedIris",
+      "type": "plant",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/LightBlueBeardedIrisBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/light_blue_bearded_iris.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/light_blue_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/item/light_blue_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/blockstates/light_blue_bearded_iris.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowBeardedIris",
+      "type": "plant",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/yellow_bearded_iris.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/yellow_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/blockstates/yellow_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/YellowBeardedIrisBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/yellow_bearded_iris.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeBeardedIris",
+      "type": "plant",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/orange_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/item/orange_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/block/orange_bearded_iris.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/orange_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/OrangeBeardedIrisBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PurpleBeardedIris",
+      "type": "plant",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/purple_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/blockstates/purple_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/item/purple_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/block/purple_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PurpleBeardedIrisBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PinkBeardedIris",
+      "type": "plant",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/pink_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/blockstates/pink_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/item/pink_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/block/pink_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PinkBeardedIrisBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "WhiteBeardedIris",
+      "type": "plant",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/white_bearded_iris.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/white_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/block/white_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/item/white_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/WhiteBeardedIrisBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BlackBeardedIris",
+      "type": "plant",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_bearded_iris",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/black_bearded_iris.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/black_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/models/block/black_bearded_iris.json",
+          "src/main/resources/assets/natures_expert/blockstates/black_bearded_iris.json",
+          "src/main/java/net/mcreator/naturesexpert/block/BlackBeardedIrisBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "RedBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/red_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/blue_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlueBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/light_blue_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/yellow_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/orange_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PurpleBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/purple_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/pink_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WhiteBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/white_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BlackBeardedIrisDyeRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_bearded_iris_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/black_bearded_iris_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BeardedIrisGen",
+      "type": "feature",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bearded_iris_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/bearded_iris_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/bearded_iris_gen.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/bearded_iris_gen.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -835,15 +1182,21 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
+      "block.natures_expert.yellow_bearded_iris": "Yellow Bearded Iris",
+      "block.natures_expert.purple_bearded_iris": "Purple Bearded Iris",
+      "block.natures_expert.red_bearded_iris": "Red Bearded Iris",
       "block.natures_expert.bird_of_paradise": "Bird Of Paradise",
       "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
+      "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
       "block.natures_expert.amaryllis": "Amaryllis",
+      "block.natures_expert.white_bearded_iris": "White Bearded Iris",
       "block.natures_expert.carnation": "Carnation",
       "advancements.lucky_advancement.title": "Lucky!",
       "block.natures_expert.light_blue_hyacinth": "Light Blue Hyacinth",
       "block.natures_expert.astilbe": "Astilbe",
       "block.natures_expert.red_hyacinth": "Red Hyacinth",
       "block.natures_expert.blue_hyacinth": "Blue Hyacinth",
+      "block.natures_expert.red_rhododendron_bush": "Red Rhododendron Bush",
       "block.natures_expert.lavender": "Lavender",
       "block.natures_expert.anemone": "Anemone",
       "block.natures_expert.yellow_hyacinth": "Yellow Hyacinth",
@@ -851,15 +1204,20 @@
       "block.natures_expert.blue_passion_flower": "Blue Passion Flower",
       "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
       "block.natures_expert.shamrock": "Shamrock",
+      "block.natures_expert.orange_bearded_iris": "Orange Bearded Iris",
+      "block.natures_expert.blue_bearded_iris": "Blue Bearded Iris",
       "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
       "block.natures_expert.yellow_rhododendron_bush": "Yellow Rhododendron Bush",
       "block.natures_expert.pink_rhododendron_bush": "Pink Rhododendron Bush",
+      "block.natures_expert.white_rhododendron_bush": "White Rhododendron Bush",
       "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
+      "block.natures_expert.black_bearded_iris": "Black Bearded Iris",
       "block.natures_expert.orange_hyacinth": "Orange Hyacinth",
       "block.natures_expert.purple_rhododendron_bush": "Purple Rhododendron Bush",
       "block.natures_expert.pink_hyacinth": "Pink Hyacinth",
       "block.natures_expert.calla_lily": "Calla Lily",
       "block.natures_expert.brittlebush": "Brittlebush",
+      "block.natures_expert.light_blue_bearded_iris": "Light Blue Bearded Iris",
       "block.natures_expert.marigold": "Marigold",
       "block.natures_expert.purple_hyacinth": "Purple Hyacinth"
     }

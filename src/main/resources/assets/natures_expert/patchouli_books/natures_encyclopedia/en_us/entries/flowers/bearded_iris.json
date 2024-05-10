@@ -1,0 +1,56 @@
+{
+  "name": "Bearded Iris",
+  "icon": "natures_expert:red_bearded_iris",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A red, orange, yellow, blue, light blue, purple, pink, white, or black flower that is part of the Iridaceae family. <br> <li>Can be found in forests.</> <br> <li>Blooms in medium groups.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Red Bearded Iris",
+      "image": "natures_expert:textures/block/red_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Orange Bearded Iris",
+      "image": "natures_expert:textures/block/orange_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Yellow Bearded Iris",
+      "image": "natures_expert:textures/block/yellow_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Light Blue Bearded Iris",
+      "image": "natures_expert:textures/block/light_blue_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Blue Bearded Iris",
+      "image": "natures_expert:textures/block/blue_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Purple Bearded Iris",
+      "image": "natures_expert:textures/block/purple_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Pink Bearded Iris",
+      "image": "natures_expert:textures/block/pink_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "White Bearded Iris",
+      "image": "natures_expert:textures/block/white_bearded_iris.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Black Bearded Iris",
+      "image": "natures_expert:textures/block/black_bearded_iris.png"
+    }
+  ]
+}

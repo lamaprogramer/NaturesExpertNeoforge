@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "natures_expert:blocks/light_blue_bearded_iris",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "natures_expert:light_blue_bearded_iris"
+        }
+      ]
+    }
+  ]
+}

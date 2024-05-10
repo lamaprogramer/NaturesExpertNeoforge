@@ -1,11 +1,17 @@
 {
   "name": "Rhododendron Bush",
-  "icon": "natures_expert:orange_rhododendron_bush",
+  "icon": "natures_expert:red_rhododendron_bush",
   "category": "natures_expert:flowers",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush with ball-shaped groups of orange, yellow, purple, or pink flowers that is part of the Ericaceae family. <br> <li>Can be found in forests.</> <br> <li>Blooms in small groups.</>"
+      "text": "A bush with ball-shaped groups of red, orange, yellow, purple, pink, or white flowers that is part of the Ericaceae family. <br> <li>Can be found in forests.</> <br> <li>Blooms in small groups.</>"
+    },
+    {
+      "type": "natures_expert:tall_flower_display",
+      "title": "Red Rhododendron Bush",
+      "top_image": "natures_expert:textures/block/red_rhododendron_bush_top.png",
+      "bottom_image": "natures_expert:textures/block/red_rhododendron_bush_bottom.png"
     },
     {
       "type": "natures_expert:tall_flower_display",
@@ -30,6 +36,12 @@
       "title": "Pink Rhododendron Bush",
       "top_image": "natures_expert:textures/block/pink_rhododendron_bush_top.png",
       "bottom_image": "natures_expert:textures/block/pink_rhododendron_bush_bottom.png"
+    },
+    {
+      "type": "natures_expert:tall_flower_display",
+      "title": "White Rhododendron Bush",
+      "top_image": "natures_expert:textures/block/white_rhododendron_bush_top.png",
+      "bottom_image": "natures_expert:textures/block/white_rhododendron_bush_bottom.png"
     }
   ]
 }

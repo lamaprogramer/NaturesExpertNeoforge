@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/black_bearded_iris",
+    "particle": "natures_expert:block/black_bearded_iris"
+  },
+  "render_type": "cutout"
+}

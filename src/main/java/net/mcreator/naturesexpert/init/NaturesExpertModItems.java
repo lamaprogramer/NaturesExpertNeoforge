@@ -44,6 +44,17 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> PURPLE_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.PURPLE_RHODODENDRON_BUSH);
 	public static final DeferredHolder<Item, Item> ORANGE_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.ORANGE_RHODODENDRON_BUSH);
 	public static final DeferredHolder<Item, Item> YELLOW_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.YELLOW_RHODODENDRON_BUSH);
+	public static final DeferredHolder<Item, Item> RED_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.RED_RHODODENDRON_BUSH);
+	public static final DeferredHolder<Item, Item> WHITE_RHODODENDRON_BUSH = doubleBlock(NaturesExpertModBlocks.WHITE_RHODODENDRON_BUSH);
+	public static final DeferredHolder<Item, Item> RED_BEARDED_IRIS = block(NaturesExpertModBlocks.RED_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> BLUE_BEARDED_IRIS = block(NaturesExpertModBlocks.BLUE_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> LIGHT_BLUE_BEARDED_IRIS = block(NaturesExpertModBlocks.LIGHT_BLUE_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> YELLOW_BEARDED_IRIS = block(NaturesExpertModBlocks.YELLOW_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> ORANGE_BEARDED_IRIS = block(NaturesExpertModBlocks.ORANGE_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> PURPLE_BEARDED_IRIS = block(NaturesExpertModBlocks.PURPLE_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> PINK_BEARDED_IRIS = block(NaturesExpertModBlocks.PINK_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> WHITE_BEARDED_IRIS = block(NaturesExpertModBlocks.WHITE_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> BLACK_BEARDED_IRIS = block(NaturesExpertModBlocks.BLACK_BEARDED_IRIS);
 
 	// Start of user code block custom items
 	// End of user code block custom items

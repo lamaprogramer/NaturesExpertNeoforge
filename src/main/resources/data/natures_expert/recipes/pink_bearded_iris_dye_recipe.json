@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "natures_expert:pink_bearded_iris"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 1
+  }
+}
