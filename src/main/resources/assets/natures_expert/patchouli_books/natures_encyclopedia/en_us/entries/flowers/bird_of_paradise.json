@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A orange and blue flower that is part of the Paradisaeidae family. <br> <li>Can be found in savannas.</> <br> <li>Blooms in groups of 1-16.</>"
+      "text": "A orange and blue flower that is part of the Paradisaeidae family. <br> <li>Can be found in savannas.</> <br> <li>Blooms in groups of 1-8.</>"
     },
     {
       "type": "natures_expert:flower_display",

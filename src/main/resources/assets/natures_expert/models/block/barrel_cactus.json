@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/barrel_cactus",
+    "particle": "natures_expert:block/barrel_cactus"
+  },
+  "render_type": "cutout"
+}

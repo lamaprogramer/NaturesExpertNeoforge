@@ -81,26 +81,6 @@
       }
     },
     {
-      "name": "BluePassionFlower",
-      "type": "plant",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_passion_flower",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/natures_expert/neoforge/biome_modifier/blue_passion_flower_biome_modifier.json",
-          "src/main/resources/assets/natures_expert/blockstates/blue_passion_flower.json",
-          "src/main/resources/assets/natures_expert/models/item/blue_passion_flower.json",
-          "src/main/resources/data/natures_expert/worldgen/placed_feature/blue_passion_flower.json",
-          "src/main/resources/assets/natures_expert/models/block/blue_passion_flower.json",
-          "src/main/resources/data/natures_expert/worldgen/configured_feature/blue_passion_flower.json",
-          "src/main/resources/data/natures_expert/loot_tables/blocks/blue_passion_flower.json",
-          "src/main/java/net/mcreator/naturesexpert/block/BluePassionFlowerBlock.java"
-        ]
-      }
-    },
-    {
       "name": "CallaLily",
       "type": "plant",
       "sortid": 6,
@@ -196,19 +176,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/natures_expert/recipes/astilbe_dye_recipe.json"
-        ]
-      }
-    },
-    {
-      "name": "BluePassionFlowerDyeRecipe",
-      "type": "recipe",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_passion_flower_dye_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/natures_expert/recipes/blue_passion_flower_dye_recipe.json"
         ]
       }
     },
@@ -1175,6 +1142,163 @@
           "src/main/resources/data/natures_expert/worldgen/configured_feature/bearded_iris_gen.json"
         ]
       }
+    },
+    {
+      "name": "HeathAster",
+      "type": "plant",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heath_aster",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/heath_aster.json",
+          "src/main/resources/assets/natures_expert/models/item/heath_aster.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/heath_aster_biome_modifier.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/heath_aster.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/heath_aster.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/heath_aster.json",
+          "src/main/resources/assets/natures_expert/blockstates/heath_aster.json",
+          "src/main/java/net/mcreator/naturesexpert/block/HeathAsterBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "GreatBlueLobelia",
+      "type": "plant",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "great_blue_lobelia",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/great_blue_lobelia_biome_modifier.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/great_blue_lobelia.json",
+          "src/main/resources/assets/natures_expert/blockstates/great_blue_lobelia.json",
+          "src/main/resources/assets/natures_expert/models/block/great_blue_lobelia.json",
+          "src/main/java/net/mcreator/naturesexpert/block/GreatBlueLobeliaBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/great_blue_lobelia.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/great_blue_lobelia.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/great_blue_lobelia.json"
+        ]
+      }
+    },
+    {
+      "name": "HeathAsterDyeRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heath_aster_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/heath_aster_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GreatBlueLobeliaDyeRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "great_blue_lobelia_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/great_blue_lobelia_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BarrelCactus",
+      "type": "plant",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrel_cactus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/barrel_cactus.json",
+          "src/main/resources/assets/natures_expert/models/block/barrel_cactus.json",
+          "src/main/resources/assets/natures_expert/blockstates/barrel_cactus.json",
+          "src/main/resources/assets/natures_expert/models/item/barrel_cactus.json",
+          "src/main/java/net/mcreator/naturesexpert/block/BarrelCactusBlock.java",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/barrel_cactus.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/barrel_cactus.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/barrel_cactus_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "WanderingTraderTrades",
+      "type": "villagertrade",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wandering_trader_trades",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "NaturesEncyclopediaRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "natures_encyclopedia_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/natures_encyclopedia_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BarrelCactusDyeRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrel_cactus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/barrel_cactus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BarrelCactusMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrel_cactus_mobplayer_collides_with_plant",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/procedures/BarrelCactusMobplayerCollidesWithPlantProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NaturesExpertCreativeTab",
+      "type": "tab",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "natures_expert_creative_tab",
+      "metadata": {
+        "files": []
+      }
     }
   ],
   "variable_elements": [],
@@ -1197,11 +1321,12 @@
       "block.natures_expert.red_hyacinth": "Red Hyacinth",
       "block.natures_expert.blue_hyacinth": "Blue Hyacinth",
       "block.natures_expert.red_rhododendron_bush": "Red Rhododendron Bush",
+      "block.natures_expert.barrel_cactus": "Barrel Cactus",
       "block.natures_expert.lavender": "Lavender",
       "block.natures_expert.anemone": "Anemone",
       "block.natures_expert.yellow_hyacinth": "Yellow Hyacinth",
+      "item_group.natures_expert.natures_expert_creative_tab": "Nature\u0027s Expert",
       "block.natures_expert.forget_me_nots": "Forget Me Nots",
-      "block.natures_expert.blue_passion_flower": "Blue Passion Flower",
       "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
       "block.natures_expert.shamrock": "Shamrock",
       "block.natures_expert.orange_bearded_iris": "Orange Bearded Iris",
@@ -1211,7 +1336,9 @@
       "block.natures_expert.pink_rhododendron_bush": "Pink Rhododendron Bush",
       "block.natures_expert.white_rhododendron_bush": "White Rhododendron Bush",
       "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
+      "block.natures_expert.great_blue_lobelia": "Great Blue Lobelia",
       "block.natures_expert.black_bearded_iris": "Black Bearded Iris",
+      "block.natures_expert.heath_aster": "Heath Aster",
       "block.natures_expert.orange_hyacinth": "Orange Hyacinth",
       "block.natures_expert.purple_rhododendron_bush": "Purple Rhododendron Bush",
       "block.natures_expert.pink_hyacinth": "Pink Hyacinth",

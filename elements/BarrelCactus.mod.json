@@ -3,7 +3,7 @@
   "_type": "plant",
   "definition": {
     "renderType": 12,
-    "texture": "blue_passion_flower",
+    "texture": "barrel_cactus",
     "textureBottom": "",
     "customModelName": "Cross model",
     "itemTexture": "",
@@ -11,9 +11,9 @@
     "tintType": "No tint",
     "isItemTinted": false,
     "plantType": "normal",
-    "suspiciousStewEffect": "WITHER",
+    "suspiciousStewEffect": "SPEED",
     "suspiciousStewDuration": 100,
-    "growapableSpawnType": "Plains",
+    "growapableSpawnType": "Desert",
     "growapableMaxHeight": 3,
     "customBoundingBox": false,
     "disableOffset": false,
@@ -28,12 +28,12 @@
         "subtract": false
       }
     ],
-    "name": "Blue Passion Flower",
+    "name": "Barrel Cactus",
     "specialInformation": {
       "fixedValue": []
     },
     "creativeTab": {
-      "value": "DECORATIONS"
+      "value": "CUSTOM:NaturesExpertCreativeTab"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -78,23 +78,27 @@
     "fireSpreadSpeed": 60,
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
-    "canBePlacedOn": [],
+    "canBePlacedOn": [
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      }
+    ],
     "isBonemealable": false,
-    "frequencyOnChunks": 3,
+    "frequencyOnChunks": 7,
     "generateFeature": true,
     "restrictionBiomes": [
       {
-        "value": "mutated_extreme_hills"
-      },
-      {
-        "value": "jungle"
-      },
-      {
-        "value": "jungle_edge"
+        "value": "#forge:is_dry"
       }
     ],
     "generationType": "Flower",
-    "patchSize": 8,
-    "generateAtAnyHeight": false
+    "patchSize": 3,
+    "generateAtAnyHeight": false,
+    "onEntityCollides": {
+      "name": "BarrelCactusMobplayerCollidesWithPlant"
+    }
   }
 }

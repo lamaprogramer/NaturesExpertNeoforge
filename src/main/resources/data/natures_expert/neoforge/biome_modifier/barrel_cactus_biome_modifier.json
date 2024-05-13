@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#forge:is_dry",
+  "features": "natures_expert:barrel_cactus",
+  "step": "vegetal_decoration"
+}

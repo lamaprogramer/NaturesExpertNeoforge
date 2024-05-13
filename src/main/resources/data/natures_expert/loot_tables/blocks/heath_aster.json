@@ -1,6 +1,6 @@
 {
   "type": "minecraft:block",
-  "random_sequence": "natures_expert:blocks/blue_passion_flower",
+  "random_sequence": "natures_expert:blocks/heath_aster",
   "pools": [
     {
       "rolls": 1.0,
@@ -12,7 +12,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "natures_expert:blue_passion_flower"
+          "name": "natures_expert:heath_aster"
         }
       ]
     }

@@ -1,0 +1,16 @@
+{
+  "name": "Barrel Cactus",
+  "icon": "natures_expert:barrel_cactus",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A small, round cactus. <br> <li>Can be found in deserts.</> <br> <li>Found in groups of 1-3.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Barrel Cactus",
+      "image": "natures_expert:textures/block/barrel_cactus.png"
+    }
+  ]
+}

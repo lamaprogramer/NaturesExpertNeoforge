@@ -2,10 +2,6 @@
   "feature": "natures_expert:bird_of_paradise",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": 3
-    },
-    {
       "type": "minecraft:rarity_filter",
       "chance": 32
     },

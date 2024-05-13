@@ -2,13 +2,13 @@
   "_fv": 60,
   "_type": "plant",
   "definition": {
-    "renderType": 12,
+    "renderType": 120,
     "texture": "shamrock_clover",
     "textureBottom": "",
     "customModelName": "Cross model",
     "itemTexture": "",
     "particleTexture": "",
-    "tintType": "No tint",
+    "tintType": "Grass",
     "isItemTinted": false,
     "plantType": "normal",
     "suspiciousStewEffect": "UNLUCK",
@@ -33,7 +33,7 @@
       "fixedValue": []
     },
     "creativeTab": {
-      "value": "DECORATIONS"
+      "value": "CUSTOM:NaturesExpertCreativeTab"
     },
     "hardness": 0.0,
     "resistance": 0.0,

@@ -15,9 +15,9 @@ import net.minecraft.core.BlockPos;
 
 import java.util.List;
 
-public class BluePassionFlowerBlock extends FlowerBlock {
-	public BluePassionFlowerBlock() {
-		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.WITHER, 100)),
+public class HeathAsterBlock extends FlowerBlock {
+	public HeathAsterBlock() {
+		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.MOVEMENT_SPEED, 100)),
 				BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 

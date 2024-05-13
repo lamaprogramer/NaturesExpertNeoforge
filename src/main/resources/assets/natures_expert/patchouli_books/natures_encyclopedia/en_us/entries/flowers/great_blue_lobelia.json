@@ -1,0 +1,16 @@
+{
+  "name": "Great Blue Lobelia",
+  "icon": "natures_expert:great_blue_lobelia",
+  "category": "natures_expert:flowers",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A blue-purple flower that is part of the Campanulaceae family. <br> <li>Can be found in savannas.</> <br> <li>Blooms in groups of 1-32.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Great Blue Lobelia",
+      "image": "natures_expert:textures/block/great_blue_lobelia.png"
+    }
+  ]
+}

@@ -33,7 +33,7 @@
       "fixedValue": []
     },
     "creativeTab": {
-      "value": "DECORATIONS"
+      "value": "CUSTOM:NaturesExpertCreativeTab"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -80,7 +80,7 @@
     "speedFactor": 1.0,
     "canBePlacedOn": [],
     "isBonemealable": false,
-    "frequencyOnChunks": 3,
+    "frequencyOnChunks": 1,
     "generateFeature": true,
     "restrictionBiomes": [
       {
@@ -88,7 +88,7 @@
       }
     ],
     "generationType": "Flower",
-    "patchSize": 16,
+    "patchSize": 8,
     "generateAtAnyHeight": false
   }
 }

@@ -23,7 +23,6 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> ANEMONE = block(NaturesExpertModBlocks.ANEMONE);
 	public static final DeferredHolder<Item, Item> ASTILBE = block(NaturesExpertModBlocks.ASTILBE);
 	public static final DeferredHolder<Item, Item> CARNATION = block(NaturesExpertModBlocks.CARNATION);
-	public static final DeferredHolder<Item, Item> BLUE_PASSION_FLOWER = block(NaturesExpertModBlocks.BLUE_PASSION_FLOWER);
 	public static final DeferredHolder<Item, Item> CALLA_LILY = block(NaturesExpertModBlocks.CALLA_LILY);
 	public static final DeferredHolder<Item, Item> FORGET_ME_NOTS = block(NaturesExpertModBlocks.FORGET_ME_NOTS);
 	public static final DeferredHolder<Item, Item> LAVENDER = block(NaturesExpertModBlocks.LAVENDER);
@@ -55,6 +54,9 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> PINK_BEARDED_IRIS = block(NaturesExpertModBlocks.PINK_BEARDED_IRIS);
 	public static final DeferredHolder<Item, Item> WHITE_BEARDED_IRIS = block(NaturesExpertModBlocks.WHITE_BEARDED_IRIS);
 	public static final DeferredHolder<Item, Item> BLACK_BEARDED_IRIS = block(NaturesExpertModBlocks.BLACK_BEARDED_IRIS);
+	public static final DeferredHolder<Item, Item> HEATH_ASTER = block(NaturesExpertModBlocks.HEATH_ASTER);
+	public static final DeferredHolder<Item, Item> GREAT_BLUE_LOBELIA = block(NaturesExpertModBlocks.GREAT_BLUE_LOBELIA);
+	public static final DeferredHolder<Item, Item> BARREL_CACTUS = block(NaturesExpertModBlocks.BARREL_CACTUS);
 
 	// Start of user code block custom items
 	// End of user code block custom items

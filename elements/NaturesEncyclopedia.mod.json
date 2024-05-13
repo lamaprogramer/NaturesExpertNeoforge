@@ -10,7 +10,7 @@
     "name": "Nature's Encyclopedia",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:NaturesExpertCreativeTab"
     },
     "stackSize": 1,
     "enchantability": 0,

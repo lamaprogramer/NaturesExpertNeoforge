@@ -6,6 +6,10 @@ package net.mcreator.naturesexpert.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredHolder;
+import net.neoforged.neoforge.client.event.RegisterColorHandlersEvent;
+import net.neoforged.fml.common.Mod;
+import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -33,15 +37,17 @@ import net.mcreator.naturesexpert.block.LuckyShamrockBlock;
 import net.mcreator.naturesexpert.block.LightBlueHyacinthBlock;
 import net.mcreator.naturesexpert.block.LightBlueBeardedIrisBlock;
 import net.mcreator.naturesexpert.block.LavenderBlock;
+import net.mcreator.naturesexpert.block.HeathAsterBlock;
+import net.mcreator.naturesexpert.block.GreatBlueLobeliaBlock;
 import net.mcreator.naturesexpert.block.ForgetMeNotsBlock;
 import net.mcreator.naturesexpert.block.CarnationBlock;
 import net.mcreator.naturesexpert.block.CallaLilyBlock;
 import net.mcreator.naturesexpert.block.BrittlebushBlock;
-import net.mcreator.naturesexpert.block.BluePassionFlowerBlock;
 import net.mcreator.naturesexpert.block.BlueHyacinthBlock;
 import net.mcreator.naturesexpert.block.BlueBeardedIrisBlock;
 import net.mcreator.naturesexpert.block.BlackBeardedIrisBlock;
 import net.mcreator.naturesexpert.block.BirdOfParadiseBlock;
+import net.mcreator.naturesexpert.block.BarrelCactusBlock;
 import net.mcreator.naturesexpert.block.AstilbeBlock;
 import net.mcreator.naturesexpert.block.AnemoneBlock;
 import net.mcreator.naturesexpert.block.AmaryllisBlock;
@@ -53,7 +59,6 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> ANEMONE = REGISTRY.register("anemone", () -> new AnemoneBlock());
 	public static final DeferredHolder<Block, Block> ASTILBE = REGISTRY.register("astilbe", () -> new AstilbeBlock());
 	public static final DeferredHolder<Block, Block> CARNATION = REGISTRY.register("carnation", () -> new CarnationBlock());
-	public static final DeferredHolder<Block, Block> BLUE_PASSION_FLOWER = REGISTRY.register("blue_passion_flower", () -> new BluePassionFlowerBlock());
 	public static final DeferredHolder<Block, Block> CALLA_LILY = REGISTRY.register("calla_lily", () -> new CallaLilyBlock());
 	public static final DeferredHolder<Block, Block> FORGET_ME_NOTS = REGISTRY.register("forget_me_nots", () -> new ForgetMeNotsBlock());
 	public static final DeferredHolder<Block, Block> LAVENDER = REGISTRY.register("lavender", () -> new LavenderBlock());
@@ -84,6 +89,18 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> PINK_BEARDED_IRIS = REGISTRY.register("pink_bearded_iris", () -> new PinkBeardedIrisBlock());
 	public static final DeferredHolder<Block, Block> WHITE_BEARDED_IRIS = REGISTRY.register("white_bearded_iris", () -> new WhiteBeardedIrisBlock());
 	public static final DeferredHolder<Block, Block> BLACK_BEARDED_IRIS = REGISTRY.register("black_bearded_iris", () -> new BlackBeardedIrisBlock());
+	public static final DeferredHolder<Block, Block> HEATH_ASTER = REGISTRY.register("heath_aster", () -> new HeathAsterBlock());
+	public static final DeferredHolder<Block, Block> GREAT_BLUE_LOBELIA = REGISTRY.register("great_blue_lobelia", () -> new GreatBlueLobeliaBlock());
+	public static final DeferredHolder<Block, Block> BARREL_CACTUS = REGISTRY.register("barrel_cactus", () -> new BarrelCactusBlock());
+
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
+	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+	public static class ClientSideHandler {
+		@SubscribeEvent
+		public static void blockColorLoad(RegisterColorHandlersEvent.Block event) {
+			ShamrockBlock.blockColorLoad(event);
+			LuckyShamrockBlock.blockColorLoad(event);
+		}
+	}
 }

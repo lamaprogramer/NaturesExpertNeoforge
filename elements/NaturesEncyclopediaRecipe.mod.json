@@ -9,40 +9,40 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "craftingBookCategory": "MISC",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.RED_FLOWER"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.RED_FLOWER"
       },
       {
-        "value": "CUSTOM:BluePassionFlower"
+        "value": "Items.BOOK"
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Blocks.RED_FLOWER"
       },
       {
         "value": ""
+      },
+      {
+        "value": "Blocks.RED_FLOWER"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.DYE#12"
+      "value": "CUSTOM:NaturesEncyclopedia"
     },
-    "name": "blue_passion_flower_dye_recipe",
+    "name": "natures_encyclopedia_recipe",
     "namespace": "mod"
   }
 }
