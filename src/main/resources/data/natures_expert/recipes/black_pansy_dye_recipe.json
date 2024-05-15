@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "natures_expert:black_pansy"
+    }
+  ],
+  "result": {
+    "item": "minecraft:black_dye",
+    "count": 1
+  }
+}

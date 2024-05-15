@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "natures_expert:magenta_pansy"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 1
+  }
+}

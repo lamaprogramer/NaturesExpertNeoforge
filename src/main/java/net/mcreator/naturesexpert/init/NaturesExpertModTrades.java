@@ -70,5 +70,8 @@ public class NaturesExpertModTrades {
 		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD),
 
 				new ItemStack(NaturesExpertModBlocks.BLACK_BEARDED_IRIS.get()), 12, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD),
+
+				new ItemStack(NaturesExpertModBlocks.HELICONIA_STRICTA.get()), 8, 5, 0.05f));
 	}
 }

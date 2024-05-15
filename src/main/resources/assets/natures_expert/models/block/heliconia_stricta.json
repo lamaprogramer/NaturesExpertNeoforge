@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/heliconia_stricta",
+    "particle": "natures_expert:block/heliconia_stricta"
+  },
+  "render_type": "cutout"
+}

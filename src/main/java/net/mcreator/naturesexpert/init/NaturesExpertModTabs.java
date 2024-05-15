@@ -56,6 +56,17 @@ public class NaturesExpertModTabs {
 				tabData.accept(NaturesExpertModBlocks.HEATH_ASTER.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.GREAT_BLUE_LOBELIA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.BARREL_CACTUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.HELICONIA_STRICTA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.RED_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PINK_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.BLACK_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.ORANGE_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.YELLOW_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.LIGHT_BLUE_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.BLUE_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.MAGENTA_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PURPLE_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.WHITE_PANSY.get().asItem());
 			})
 
 					.build());

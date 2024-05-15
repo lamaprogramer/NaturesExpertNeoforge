@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_jungle",
+  "features": "natures_expert:heliconia_stricta",
+  "step": "vegetal_decoration"
+}

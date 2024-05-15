@@ -57,6 +57,17 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> HEATH_ASTER = block(NaturesExpertModBlocks.HEATH_ASTER);
 	public static final DeferredHolder<Item, Item> GREAT_BLUE_LOBELIA = block(NaturesExpertModBlocks.GREAT_BLUE_LOBELIA);
 	public static final DeferredHolder<Item, Item> BARREL_CACTUS = block(NaturesExpertModBlocks.BARREL_CACTUS);
+	public static final DeferredHolder<Item, Item> HELICONIA_STRICTA = block(NaturesExpertModBlocks.HELICONIA_STRICTA);
+	public static final DeferredHolder<Item, Item> RED_PANSY = block(NaturesExpertModBlocks.RED_PANSY);
+	public static final DeferredHolder<Item, Item> PINK_PANSY = block(NaturesExpertModBlocks.PINK_PANSY);
+	public static final DeferredHolder<Item, Item> BLACK_PANSY = block(NaturesExpertModBlocks.BLACK_PANSY);
+	public static final DeferredHolder<Item, Item> ORANGE_PANSY = block(NaturesExpertModBlocks.ORANGE_PANSY);
+	public static final DeferredHolder<Item, Item> YELLOW_PANSY = block(NaturesExpertModBlocks.YELLOW_PANSY);
+	public static final DeferredHolder<Item, Item> LIGHT_BLUE_PANSY = block(NaturesExpertModBlocks.LIGHT_BLUE_PANSY);
+	public static final DeferredHolder<Item, Item> BLUE_PANSY = block(NaturesExpertModBlocks.BLUE_PANSY);
+	public static final DeferredHolder<Item, Item> MAGENTA_PANSY = block(NaturesExpertModBlocks.MAGENTA_PANSY);
+	public static final DeferredHolder<Item, Item> PURPLE_PANSY = block(NaturesExpertModBlocks.PURPLE_PANSY);
+	public static final DeferredHolder<Item, Item> WHITE_PANSY = block(NaturesExpertModBlocks.WHITE_PANSY);
 
 	// Start of user code block custom items
 	// End of user code block custom items
