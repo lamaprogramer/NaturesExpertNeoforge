@@ -1619,6 +1619,21 @@
           "src/main/resources/data/natures_expert/recipes/black_pansy_dye_recipe.json"
         ]
       }
+    },
+    {
+      "name": "PansyGen",
+      "type": "feature",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pansy_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/pansy_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/pansy_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/pansy_gen.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1629,17 +1644,17 @@
       "block.natures_expert.yellow_bearded_iris": "Yellow Bearded Iris",
       "block.natures_expert.purple_bearded_iris": "Purple Bearded Iris",
       "block.natures_expert.bird_of_paradise": "Bird Of Paradise",
-      "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
       "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
+      "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
       "block.natures_expert.amaryllis": "Amaryllis",
-      "block.natures_expert.white_bearded_iris": "White Bearded Iris",
       "block.natures_expert.magenta_pansy": "Magenta Pansy",
+      "block.natures_expert.white_bearded_iris": "White Bearded Iris",
       "block.natures_expert.carnation": "Carnation",
       "advancements.lucky_advancement.title": "Lucky!",
       "block.natures_expert.astilbe": "Astilbe",
       "block.natures_expert.red_hyacinth": "Red Hyacinth",
-      "block.natures_expert.barrel_cactus": "Barrel Cactus",
       "block.natures_expert.red_rhododendron_bush": "Red Rhododendron Bush",
+      "block.natures_expert.barrel_cactus": "Barrel Cactus",
       "block.natures_expert.blue_pansy": "Blue Pansy",
       "block.natures_expert.anemone": "Anemone",
       "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
@@ -1648,8 +1663,8 @@
       "block.natures_expert.black_pansy": "Black Pansy",
       "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
       "block.natures_expert.pink_rhododendron_bush": "Pink Rhododendron Bush",
-      "block.natures_expert.heath_aster": "Heath Aster",
       "block.natures_expert.purple_pansy": "Purple Pansy",
+      "block.natures_expert.heath_aster": "Heath Aster",
       "block.natures_expert.orange_hyacinth": "Orange Hyacinth",
       "block.natures_expert.white_pansy": "White Pansy",
       "block.natures_expert.pink_hyacinth": "Pink Hyacinth",
