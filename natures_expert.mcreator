@@ -3,7 +3,7 @@
     {
       "name": "Amaryllis",
       "type": "plant",
-      "sortid": 2,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amaryllis",
@@ -23,7 +23,7 @@
     {
       "name": "Anemone",
       "type": "plant",
-      "sortid": 1,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "anemone",
@@ -43,7 +43,7 @@
     {
       "name": "Astilbe",
       "type": "plant",
-      "sortid": 3,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "astilbe",
@@ -63,7 +63,7 @@
     {
       "name": "Carnation",
       "type": "plant",
-      "sortid": 4,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carnation",
@@ -83,7 +83,7 @@
     {
       "name": "CallaLily",
       "type": "plant",
-      "sortid": 6,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calla_lily",
@@ -103,7 +103,7 @@
     {
       "name": "ForgetMeNots",
       "type": "plant",
-      "sortid": 7,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "forget_me_nots",
@@ -123,7 +123,7 @@
     {
       "name": "Lavender",
       "type": "plant",
-      "sortid": 9,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lavender",
@@ -143,7 +143,7 @@
     {
       "name": "AmaryllisDyeRecipe",
       "type": "recipe",
-      "sortid": 10,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amaryllis_dye_recipe",
@@ -156,7 +156,7 @@
     {
       "name": "AnemoneDyeRecipe",
       "type": "recipe",
-      "sortid": 11,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "anemone_dye_recipe",
@@ -169,7 +169,7 @@
     {
       "name": "AstilbeDyeRecipe",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "astilbe_dye_recipe",
@@ -182,7 +182,7 @@
     {
       "name": "CallaLilyDyeRecipe",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calla_lily_dye_recipe",
@@ -195,7 +195,7 @@
     {
       "name": "CarnationDyeRecipe",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carnation_dye_recipe",
@@ -208,7 +208,7 @@
     {
       "name": "ForgetMeNotsDyeRecipe",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "forget_me_nots_dye_recipe",
@@ -221,7 +221,7 @@
     {
       "name": "LavenderDyeRecipe",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lavender_dye_recipe",
@@ -234,7 +234,7 @@
     {
       "name": "Shamrock",
       "type": "plant",
-      "sortid": 19,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shamrock",
@@ -251,7 +251,7 @@
     {
       "name": "LuckyShamrock",
       "type": "plant",
-      "sortid": 20,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lucky_shamrock",
@@ -268,7 +268,7 @@
     {
       "name": "ShamrockGen",
       "type": "feature",
-      "sortid": 21,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shamrock_gen",
@@ -283,7 +283,7 @@
     {
       "name": "NaturesEncyclopedia",
       "type": "item",
-      "sortid": 22,
+      "sortid": 1,
       "compiles": true,
       "locked_code": true,
       "registry_name": "natures_encyclopedia",
@@ -297,7 +297,7 @@
     {
       "name": "ShamrockDyeRecipe",
       "type": "recipe",
-      "sortid": 23,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shamrock_dye_recipe",
@@ -310,7 +310,7 @@
     {
       "name": "LuckyShamrockDyeRecipe",
       "type": "recipe",
-      "sortid": 24,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lucky_shamrock_dye_recipe",
@@ -323,7 +323,7 @@
     {
       "name": "LuckyAdvancement",
       "type": "achievement",
-      "sortid": 25,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lucky_advancement",
@@ -336,7 +336,7 @@
     {
       "name": "Marigold",
       "type": "plant",
-      "sortid": 26,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "marigold",
@@ -356,7 +356,7 @@
     {
       "name": "MarigoldDyeRecipe",
       "type": "recipe",
-      "sortid": 27,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "marigold_dye_recipe",
@@ -369,7 +369,7 @@
     {
       "name": "LuckPotionRecipe",
       "type": "recipe",
-      "sortid": 28,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "luck_potion_recipe",
@@ -382,7 +382,7 @@
     {
       "name": "Brittlebush",
       "type": "plant",
-      "sortid": 29,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brittlebush",
@@ -402,7 +402,7 @@
     {
       "name": "BirdOfParadise",
       "type": "plant",
-      "sortid": 30,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bird_of_paradise",
@@ -422,7 +422,7 @@
     {
       "name": "BirdOfParadiseDyeRecipe",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bird_of_paradise_dye_recipe",
@@ -435,7 +435,7 @@
     {
       "name": "BlueHyacinth",
       "type": "plant",
-      "sortid": 33,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_hyacinth",
@@ -452,7 +452,7 @@
     {
       "name": "BlueHyacinthDyeRecipe",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_hyacinth_dye_recipe",
@@ -465,7 +465,7 @@
     {
       "name": "LightBlueHyacinth",
       "type": "plant",
-      "sortid": 35,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_hyacinth",
@@ -482,7 +482,7 @@
     {
       "name": "RedHyacinth",
       "type": "plant",
-      "sortid": 36,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_hyacinth",
@@ -499,7 +499,7 @@
     {
       "name": "PurpleHyacinth",
       "type": "plant",
-      "sortid": 37,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_hyacinth",
@@ -516,7 +516,7 @@
     {
       "name": "YellowHyacinth",
       "type": "plant",
-      "sortid": 38,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_hyacinth",
@@ -533,7 +533,7 @@
     {
       "name": "OrangeHyacinth",
       "type": "plant",
-      "sortid": 39,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_hyacinth",
@@ -550,7 +550,7 @@
     {
       "name": "HyacinthGen",
       "type": "feature",
-      "sortid": 40,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hyacinth_gen",
@@ -565,7 +565,7 @@
     {
       "name": "PinkHyacinth",
       "type": "plant",
-      "sortid": 41,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_hyacinth",
@@ -582,7 +582,7 @@
     {
       "name": "RedHyacinthDyeRecipe",
       "type": "recipe",
-      "sortid": 42,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_hyacinth_dye_recipe",
@@ -595,7 +595,7 @@
     {
       "name": "LightBlueHyacinthDyeRecipe",
       "type": "recipe",
-      "sortid": 43,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_hyacinth_dye_recipe",
@@ -608,7 +608,7 @@
     {
       "name": "PinkHyacinthDyeRecipe",
       "type": "recipe",
-      "sortid": 44,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_hyacinth_dye_recipe",
@@ -621,7 +621,7 @@
     {
       "name": "PurpleHyacinthDyeRecipe",
       "type": "recipe",
-      "sortid": 45,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_hyacinth_dye_recipe",
@@ -634,7 +634,7 @@
     {
       "name": "OrangeHyacinthDyeRecipe",
       "type": "recipe",
-      "sortid": 46,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_hyacinth_dye_recipe",
@@ -647,7 +647,7 @@
     {
       "name": "YellowHyacinthDyeRecipe",
       "type": "recipe",
-      "sortid": 47,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_hyacinth_dye_recipe",
@@ -660,7 +660,7 @@
     {
       "name": "PinkRhododendronBush",
       "type": "plant",
-      "sortid": 48,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_rhododendron_bush",
@@ -678,7 +678,7 @@
     {
       "name": "PurpleRhododendronBush",
       "type": "plant",
-      "sortid": 49,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_rhododendron_bush",
@@ -696,7 +696,7 @@
     {
       "name": "OrangeRhododendronBush",
       "type": "plant",
-      "sortid": 50,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_rhododendron_bush",
@@ -714,7 +714,7 @@
     {
       "name": "YellowRhododendronBush",
       "type": "plant",
-      "sortid": 51,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_rhododendron_bush",
@@ -732,7 +732,7 @@
     {
       "name": "PinkRhododendronBushDyeRecipe",
       "type": "recipe",
-      "sortid": 52,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_rhododendron_bush_dye_recipe",
@@ -745,7 +745,7 @@
     {
       "name": "PurpleRhododendronBushDyeRecipe",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_rhododendron_bush_dye_recipe",
@@ -758,7 +758,7 @@
     {
       "name": "OrangeRhododendronBushDyeRecipe",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_rhododendron_bush_dye_recipe",
@@ -771,7 +771,7 @@
     {
       "name": "YellowRhododendronBushDyeRecipe",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_rhododendron_bush_dye_recipe",
@@ -784,7 +784,7 @@
     {
       "name": "RhododendronBushGen",
       "type": "feature",
-      "sortid": 56,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rhododendron_bush_gen",
@@ -799,7 +799,7 @@
     {
       "name": "RedRhododendronBush",
       "type": "plant",
-      "sortid": 57,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_rhododendron_bush",
@@ -817,7 +817,7 @@
     {
       "name": "RedRhododendronBushDyeRecipe",
       "type": "recipe",
-      "sortid": 58,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_rhododendron_bush_dye_recipe",
@@ -830,7 +830,7 @@
     {
       "name": "WhiteRhododendronBush",
       "type": "plant",
-      "sortid": 59,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_rhododendron_bush",
@@ -848,7 +848,7 @@
     {
       "name": "WhiteRhododendronBushDyeRecipe",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_rhododendron_bush_dye_recipe",
@@ -861,7 +861,7 @@
     {
       "name": "RedBeardedIris",
       "type": "plant",
-      "sortid": 61,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_bearded_iris",
@@ -878,7 +878,7 @@
     {
       "name": "BlueBeardedIris",
       "type": "plant",
-      "sortid": 62,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_bearded_iris",
@@ -895,7 +895,7 @@
     {
       "name": "LightBlueBeardedIris",
       "type": "plant",
-      "sortid": 63,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_bearded_iris",
@@ -912,7 +912,7 @@
     {
       "name": "YellowBeardedIris",
       "type": "plant",
-      "sortid": 64,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_bearded_iris",
@@ -929,7 +929,7 @@
     {
       "name": "OrangeBeardedIris",
       "type": "plant",
-      "sortid": 65,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_bearded_iris",
@@ -946,7 +946,7 @@
     {
       "name": "PurpleBeardedIris",
       "type": "plant",
-      "sortid": 66,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_bearded_iris",
@@ -963,7 +963,7 @@
     {
       "name": "PinkBeardedIris",
       "type": "plant",
-      "sortid": 67,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_bearded_iris",
@@ -980,7 +980,7 @@
     {
       "name": "WhiteBeardedIris",
       "type": "plant",
-      "sortid": 68,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_bearded_iris",
@@ -997,7 +997,7 @@
     {
       "name": "BlackBeardedIris",
       "type": "plant",
-      "sortid": 69,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_bearded_iris",
@@ -1014,7 +1014,7 @@
     {
       "name": "RedBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 70,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_bearded_iris_dye_recipe",
@@ -1027,7 +1027,7 @@
     {
       "name": "BlueBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_bearded_iris_dye_recipe",
@@ -1040,7 +1040,7 @@
     {
       "name": "LightBlueBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_bearded_iris_dye_recipe",
@@ -1053,7 +1053,7 @@
     {
       "name": "YellowBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 73,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_bearded_iris_dye_recipe",
@@ -1066,7 +1066,7 @@
     {
       "name": "OrangeBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_bearded_iris_dye_recipe",
@@ -1079,7 +1079,7 @@
     {
       "name": "PurpleBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 75,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_bearded_iris_dye_recipe",
@@ -1092,7 +1092,7 @@
     {
       "name": "PinkBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 76,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_bearded_iris_dye_recipe",
@@ -1105,7 +1105,7 @@
     {
       "name": "WhiteBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_bearded_iris_dye_recipe",
@@ -1118,7 +1118,7 @@
     {
       "name": "BlackBeardedIrisDyeRecipe",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_bearded_iris_dye_recipe",
@@ -1131,7 +1131,7 @@
     {
       "name": "BeardedIrisGen",
       "type": "feature",
-      "sortid": 79,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bearded_iris_gen",
@@ -1146,7 +1146,7 @@
     {
       "name": "HeathAster",
       "type": "plant",
-      "sortid": 80,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heath_aster",
@@ -1166,7 +1166,7 @@
     {
       "name": "GreatBlueLobelia",
       "type": "plant",
-      "sortid": 81,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "great_blue_lobelia",
@@ -1186,7 +1186,7 @@
     {
       "name": "HeathAsterDyeRecipe",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heath_aster_dye_recipe",
@@ -1199,7 +1199,7 @@
     {
       "name": "GreatBlueLobeliaDyeRecipe",
       "type": "recipe",
-      "sortid": 83,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "great_blue_lobelia_dye_recipe",
@@ -1212,7 +1212,7 @@
     {
       "name": "BarrelCactus",
       "type": "plant",
-      "sortid": 84,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "barrel_cactus",
@@ -1232,7 +1232,7 @@
     {
       "name": "WanderingTraderTrades",
       "type": "villagertrade",
-      "sortid": 85,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wandering_trader_trades",
@@ -1243,7 +1243,7 @@
     {
       "name": "NaturesEncyclopediaRecipe",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "natures_encyclopedia_recipe",
@@ -1256,7 +1256,7 @@
     {
       "name": "BarrelCactusDyeRecipe",
       "type": "recipe",
-      "sortid": 87,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "barrel_cactus_dye_recipe",
@@ -1269,7 +1269,7 @@
     {
       "name": "BarrelCactusMobplayerCollidesWithPlant",
       "type": "procedure",
-      "sortid": 88,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "barrel_cactus_mobplayer_collides_with_plant",
@@ -1292,7 +1292,7 @@
     {
       "name": "NaturesExpertCreativeTab",
       "type": "tab",
-      "sortid": 89,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "natures_expert_creative_tab",
@@ -1303,7 +1303,7 @@
     {
       "name": "HeliconiaStricta",
       "type": "plant",
-      "sortid": 90,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heliconia_stricta",
@@ -1323,7 +1323,7 @@
     {
       "name": "HeliconiaStrictaDyeRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heliconia_stricta_dye_recipe",
@@ -1336,7 +1336,7 @@
     {
       "name": "RedPansy",
       "type": "plant",
-      "sortid": 92,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_pansy",
@@ -1353,7 +1353,7 @@
     {
       "name": "PinkPansy",
       "type": "plant",
-      "sortid": 93,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_pansy",
@@ -1370,7 +1370,7 @@
     {
       "name": "BlackPansy",
       "type": "plant",
-      "sortid": 94,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_pansy",
@@ -1387,7 +1387,7 @@
     {
       "name": "OrangePansy",
       "type": "plant",
-      "sortid": 95,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_pansy",
@@ -1404,7 +1404,7 @@
     {
       "name": "YellowPansy",
       "type": "plant",
-      "sortid": 96,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_pansy",
@@ -1421,7 +1421,7 @@
     {
       "name": "LightBluePansy",
       "type": "plant",
-      "sortid": 97,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_pansy",
@@ -1438,7 +1438,7 @@
     {
       "name": "BluePansy",
       "type": "plant",
-      "sortid": 98,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_pansy",
@@ -1455,7 +1455,7 @@
     {
       "name": "MagentaPansy",
       "type": "plant",
-      "sortid": 99,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_pansy",
@@ -1472,7 +1472,7 @@
     {
       "name": "PurplePansy",
       "type": "plant",
-      "sortid": 100,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_pansy",
@@ -1489,7 +1489,7 @@
     {
       "name": "WhitePansy",
       "type": "plant",
-      "sortid": 101,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_pansy",
@@ -1506,7 +1506,7 @@
     {
       "name": "RedPansyDyeRecipe",
       "type": "recipe",
-      "sortid": 102,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_pansy_dye_recipe",
@@ -1519,7 +1519,7 @@
     {
       "name": "OrangePansyDyeRecipe",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_pansy_dye_recipe",
@@ -1532,7 +1532,7 @@
     {
       "name": "YellowPansyDyeRecipe",
       "type": "recipe",
-      "sortid": 104,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_pansy_dye_recipe",
@@ -1545,7 +1545,7 @@
     {
       "name": "LightBluePansyDyeRecipe",
       "type": "recipe",
-      "sortid": 105,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_pansy_dye_recipe",
@@ -1558,7 +1558,7 @@
     {
       "name": "BluePansyDyeRecipe",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_pansy_dye_recipe",
@@ -1571,7 +1571,7 @@
     {
       "name": "PurplePansyDyeRecipe",
       "type": "recipe",
-      "sortid": 107,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_pansy_dye_recipe",
@@ -1584,7 +1584,7 @@
     {
       "name": "MagentaPansyDyeRecipe",
       "type": "recipe",
-      "sortid": 108,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_pansy_dye_recipe",
@@ -1597,7 +1597,7 @@
     {
       "name": "WhitePansyDyeRecipe",
       "type": "recipe",
-      "sortid": 109,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_pansy_dye_recipe",
@@ -1610,7 +1610,7 @@
     {
       "name": "BlackPansyDyeRecipe",
       "type": "recipe",
-      "sortid": 110,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_pansy_dye_recipe",
@@ -1623,7 +1623,7 @@
     {
       "name": "PansyGen",
       "type": "feature",
-      "sortid": 111,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pansy_gen",
@@ -1638,7 +1638,7 @@
     {
       "name": "PinkDahlia",
       "type": "plant",
-      "sortid": 112,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_dahlia",
@@ -1655,7 +1655,7 @@
     {
       "name": "RedDahlia",
       "type": "plant",
-      "sortid": 113,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_dahlia",
@@ -1672,7 +1672,7 @@
     {
       "name": "RedBromeliad",
       "type": "plant",
-      "sortid": 114,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_bromeliad",
@@ -1689,7 +1689,7 @@
     {
       "name": "OrangeBromeliad",
       "type": "plant",
-      "sortid": 115,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_bromeliad",
@@ -1706,7 +1706,7 @@
     {
       "name": "YellowBromeliad",
       "type": "plant",
-      "sortid": 116,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_bromeliad",
@@ -1723,7 +1723,7 @@
     {
       "name": "BromeliadGen",
       "type": "feature",
-      "sortid": 117,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bromeliad_gen",
@@ -1738,7 +1738,7 @@
     {
       "name": "RedBromeliadDyeRecipe",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_bromeliad_dye_recipe",
@@ -1751,7 +1751,7 @@
     {
       "name": "OrangeBromeliadDyeRecipe",
       "type": "recipe",
-      "sortid": 119,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_bromeliad_dye_recipe",
@@ -1764,7 +1764,7 @@
     {
       "name": "YellowBromeliadDyeRecipe",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_bromeliad_dye_recipe",
@@ -1777,7 +1777,7 @@
     {
       "name": "RedHibiscus",
       "type": "plant",
-      "sortid": 121,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_hibiscus",
@@ -1794,7 +1794,7 @@
     {
       "name": "RedClivia",
       "type": "plant",
-      "sortid": 122,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_clivia",
@@ -1811,7 +1811,7 @@
     {
       "name": "OrangeHibiscus",
       "type": "plant",
-      "sortid": 124,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_hibiscus",
@@ -1828,7 +1828,7 @@
     {
       "name": "YellowHibiscus",
       "type": "plant",
-      "sortid": 125,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_hibiscus",
@@ -1845,7 +1845,7 @@
     {
       "name": "PinkHibiscus",
       "type": "plant",
-      "sortid": 126,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_hibiscus",
@@ -1862,7 +1862,7 @@
     {
       "name": "RedHibiscusDyeRecipe",
       "type": "recipe",
-      "sortid": 127,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_hibiscus_dye_recipe",
@@ -1875,7 +1875,7 @@
     {
       "name": "OrangeHibiscusDyeRecipe",
       "type": "recipe",
-      "sortid": 128,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_hibiscus_dye_recipe",
@@ -1888,7 +1888,7 @@
     {
       "name": "YellowHibiscusDyeRecipe",
       "type": "recipe",
-      "sortid": 129,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_hibiscus_dye_recipe",
@@ -1901,7 +1901,7 @@
     {
       "name": "PinkHibiscusDyeRecipe",
       "type": "recipe",
-      "sortid": 130,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_hibiscus_dye_recipe",
@@ -1914,7 +1914,7 @@
     {
       "name": "HibiscusGen",
       "type": "feature",
-      "sortid": 131,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hibiscus_gen",
@@ -1929,7 +1929,7 @@
     {
       "name": "OrangeClivia",
       "type": "plant",
-      "sortid": 132,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_clivia",
@@ -1946,7 +1946,7 @@
     {
       "name": "YellowClivia",
       "type": "plant",
-      "sortid": 133,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_clivia",
@@ -1963,7 +1963,7 @@
     {
       "name": "RedCliviaDyeRecipe",
       "type": "recipe",
-      "sortid": 134,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_clivia_dye_recipe",
@@ -1976,7 +1976,7 @@
     {
       "name": "OrangeCliviaDyeRecipe",
       "type": "recipe",
-      "sortid": 135,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_clivia_dye_recipe",
@@ -1989,7 +1989,7 @@
     {
       "name": "YellowCliviaDyeRecipe",
       "type": "recipe",
-      "sortid": 136,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_clivia_dye_recipe",
@@ -2002,7 +2002,7 @@
     {
       "name": "CliviaGen",
       "type": "feature",
-      "sortid": 137,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clivia_gen",
@@ -2017,7 +2017,7 @@
     {
       "name": "PinkProtea",
       "type": "plant",
-      "sortid": 138,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_protea",
@@ -2034,7 +2034,7 @@
     {
       "name": "WhiteProtea",
       "type": "plant",
-      "sortid": 139,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_protea",
@@ -2051,7 +2051,7 @@
     {
       "name": "RedProtea",
       "type": "plant",
-      "sortid": 140,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_protea",
@@ -2068,7 +2068,7 @@
     {
       "name": "RedProteaDyeRecipe",
       "type": "recipe",
-      "sortid": 141,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_protea_dye_recipe",
@@ -2081,7 +2081,7 @@
     {
       "name": "WhiteProteaDyeRecipe",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_protea_dye_recipe",
@@ -2094,7 +2094,7 @@
     {
       "name": "PinkProteaDyeRecipe",
       "type": "recipe",
-      "sortid": 143,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_protea_dye_recipe",
@@ -2107,7 +2107,7 @@
     {
       "name": "ProteaGen",
       "type": "feature",
-      "sortid": 144,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "protea_gen",
