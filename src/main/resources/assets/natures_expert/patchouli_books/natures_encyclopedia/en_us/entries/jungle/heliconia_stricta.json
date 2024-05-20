@@ -1,0 +1,16 @@
+{
+  "name": "Heliconia Stricta",
+  "icon": "natures_expert:heliconia_stricta",
+  "category": "natures_expert:jungle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A red-orange flower that is part of the Heliconiaceae family. <br> <li>Blooms in groups of 1-16.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Heliconia Stricta",
+      "image": "natures_expert:textures/block/heliconia_stricta.png"
+    }
+  ]
+}

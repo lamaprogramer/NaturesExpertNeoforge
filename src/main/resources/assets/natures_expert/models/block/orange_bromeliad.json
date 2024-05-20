@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/orange_bromeliad",
+    "particle": "natures_expert:block/orange_bromeliad"
+  },
+  "render_type": "cutout"
+}

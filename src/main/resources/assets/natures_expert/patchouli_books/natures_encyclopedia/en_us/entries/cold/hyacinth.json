@@ -1,0 +1,46 @@
+{
+  "name": "Hyacinth",
+  "icon": "natures_expert:red_hyacinth",
+  "category": "natures_expert:cold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A bush of red, orange, yellow, blue, light blue, purple, or pink flowers that is part of the Asparagaceae family. <br> <li>Blooms in medium groups.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Red Hyacinth",
+      "image": "natures_expert:textures/block/red_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Orange Hyacinth",
+      "image": "natures_expert:textures/block/orange_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Yellow Hyacinth",
+      "image": "natures_expert:textures/block/yellow_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Light Blue Hyacinth",
+      "image": "natures_expert:textures/block/light_blue_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Blue Hyacinth",
+      "image": "natures_expert:textures/block/blue_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Purple Hyacinth",
+      "image": "natures_expert:textures/block/purple_hyacinth.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Pink Hyacinth",
+      "image": "natures_expert:textures/block/pink_hyacinth.png"
+    }
+  ]
+}

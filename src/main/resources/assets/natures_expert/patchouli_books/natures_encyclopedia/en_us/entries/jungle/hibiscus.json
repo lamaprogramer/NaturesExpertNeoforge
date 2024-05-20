@@ -1,0 +1,31 @@
+{
+  "name": "Hibiscus",
+  "icon": "natures_expert:red_hibiscus",
+  "category": "natures_expert:jungle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A red, orange, yellow, or pink flower that is part of the Malvaceae family. <br> <li>Blooms on its own.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Red Hibiscus",
+      "image": "natures_expert:textures/block/red_hibiscus.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Orange Hibiscus",
+      "image": "natures_expert:textures/block/orange_hibiscus.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Yellow Hibiscus",
+      "image": "natures_expert:textures/block/yellow_hibiscus.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Pink Hibiscus",
+      "image": "natures_expert:textures/block/yellow_hibiscus.png"
+    }
+  ]
+}

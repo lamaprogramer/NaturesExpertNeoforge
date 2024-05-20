@@ -1,0 +1,16 @@
+{
+  "name": "Shamrock",
+  "icon": "natures_expert:shamrock",
+  "category": "natures_expert:plains",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A green clover that is part of the Oxalidaceae family. <br> <li>Blooms in large groups.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Shamrock",
+      "image": "natures_expert:textures/block/shamrock_clover.png"
+    }
+  ]
+}

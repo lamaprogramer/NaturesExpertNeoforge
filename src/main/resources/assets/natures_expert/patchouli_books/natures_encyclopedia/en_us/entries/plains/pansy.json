@@ -1,0 +1,61 @@
+{
+  "name": "Pansy",
+  "icon": "natures_expert:red_pansy",
+  "category": "natures_expert:plains",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A red, orange, yellow, blue, light blue, magenta, purple, pink, black, or white flower that is part of the Asparagaceae family. <br> <li>Blooms in medium groups.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Red Pansy",
+      "image": "natures_expert:textures/block/red_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Orange Pansy",
+      "image": "natures_expert:textures/block/orange_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Yellow Pansy",
+      "image": "natures_expert:textures/block/yellow_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Light Blue Pansy",
+      "image": "natures_expert:textures/block/light_blue_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Blue Pansy",
+      "image": "natures_expert:textures/block/blue_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Magenta Pansy",
+      "image": "natures_expert:textures/block/magenta_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Purple Pansy",
+      "image": "natures_expert:textures/block/purple_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Pink Pansy",
+      "image": "natures_expert:textures/block/pink_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "White Pansy",
+      "image": "natures_expert:textures/block/white_pansy.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Black Pansy",
+      "image": "natures_expert:textures/block/black_pansy.png"
+    }
+  ]
+}

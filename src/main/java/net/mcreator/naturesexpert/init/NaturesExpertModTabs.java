@@ -67,6 +67,21 @@ public class NaturesExpertModTabs {
 				tabData.accept(NaturesExpertModBlocks.MAGENTA_PANSY.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.PURPLE_PANSY.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.WHITE_PANSY.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PINK_DAHLIA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.RED_DAHLIA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.RED_BROMELIAD.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.ORANGE_BROMELIAD.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.YELLOW_BROMELIAD.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.RED_HIBISCUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.RED_CLIVIA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.ORANGE_HIBISCUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.YELLOW_HIBISCUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PINK_HIBISCUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.ORANGE_CLIVIA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.YELLOW_CLIVIA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PINK_PROTEA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.WHITE_PROTEA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.RED_PROTEA.get().asItem());
 			})
 
 					.build());

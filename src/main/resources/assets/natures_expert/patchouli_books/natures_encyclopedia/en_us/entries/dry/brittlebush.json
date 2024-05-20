@@ -1,0 +1,16 @@
+{
+  "name": "Brittlebush",
+  "icon": "natures_expert:brittlebush",
+  "category": "natures_expert:dry",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A bush with silver leaves and yellow flowers that is part of the Asteraceae family. <br> <li>Blooms in groups of 1-48.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Brittlebush",
+      "image": "natures_expert:textures/block/brittlebush.png"
+    }
+  ]
+}

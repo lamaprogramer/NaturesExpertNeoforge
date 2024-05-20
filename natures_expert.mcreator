@@ -1634,6 +1634,490 @@
           "src/main/resources/data/natures_expert/worldgen/placed_feature/pansy_gen.json"
         ]
       }
+    },
+    {
+      "name": "PinkDahlia",
+      "type": "plant",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_dahlia",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/pink_dahlia.json",
+          "src/main/resources/assets/natures_expert/models/item/pink_dahlia.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/pink_dahlia.json",
+          "src/main/resources/assets/natures_expert/blockstates/pink_dahlia.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PinkDahliaBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "RedDahlia",
+      "type": "plant",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_dahlia",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/red_dahlia.json",
+          "src/main/resources/assets/natures_expert/models/item/red_dahlia.json",
+          "src/main/resources/assets/natures_expert/models/block/red_dahlia.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedDahliaBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_dahlia.json"
+        ]
+      }
+    },
+    {
+      "name": "RedBromeliad",
+      "type": "plant",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_bromeliad",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/red_bromeliad.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_bromeliad.json",
+          "src/main/resources/assets/natures_expert/models/item/red_bromeliad.json",
+          "src/main/resources/assets/natures_expert/blockstates/red_bromeliad.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedBromeliadBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "OrangeBromeliad",
+      "type": "plant",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_bromeliad",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/orange_bromeliad.json",
+          "src/main/resources/assets/natures_expert/models/item/orange_bromeliad.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/orange_bromeliad.json",
+          "src/main/java/net/mcreator/naturesexpert/block/OrangeBromeliadBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/orange_bromeliad.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowBromeliad",
+      "type": "plant",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_bromeliad",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/yellow_bromeliad.json",
+          "src/main/java/net/mcreator/naturesexpert/block/YellowBromeliadBlock.java",
+          "src/main/resources/assets/natures_expert/blockstates/yellow_bromeliad.json",
+          "src/main/resources/assets/natures_expert/models/item/yellow_bromeliad.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/yellow_bromeliad.json"
+        ]
+      }
+    },
+    {
+      "name": "BromeliadGen",
+      "type": "feature",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bromeliad_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/bromeliad_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/bromeliad_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/bromeliad_gen.json"
+        ]
+      }
+    },
+    {
+      "name": "RedBromeliadDyeRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_bromeliad_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/red_bromeliad_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeBromeliadDyeRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_bromeliad_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/orange_bromeliad_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowBromeliadDyeRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_bromeliad_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/yellow_bromeliad_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedHibiscus",
+      "type": "plant",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_hibiscus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_hibiscus.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedHibiscusBlock.java",
+          "src/main/resources/assets/natures_expert/blockstates/red_hibiscus.json",
+          "src/main/resources/assets/natures_expert/models/item/red_hibiscus.json",
+          "src/main/resources/assets/natures_expert/models/block/red_hibiscus.json"
+        ]
+      }
+    },
+    {
+      "name": "RedClivia",
+      "type": "plant",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clivia",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_clivia.json",
+          "src/main/resources/assets/natures_expert/models/item/red_clivia.json",
+          "src/main/resources/assets/natures_expert/blockstates/red_clivia.json",
+          "src/main/resources/assets/natures_expert/models/block/red_clivia.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedCliviaBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "OrangeHibiscus",
+      "type": "plant",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_hibiscus",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/OrangeHibiscusBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/orange_hibiscus.json",
+          "src/main/resources/assets/natures_expert/models/item/orange_hibiscus.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/orange_hibiscus.json",
+          "src/main/resources/assets/natures_expert/blockstates/orange_hibiscus.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowHibiscus",
+      "type": "plant",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_hibiscus",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/yellow_hibiscus.json",
+          "src/main/resources/assets/natures_expert/blockstates/yellow_hibiscus.json",
+          "src/main/java/net/mcreator/naturesexpert/block/YellowHibiscusBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/yellow_hibiscus.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/yellow_hibiscus.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkHibiscus",
+      "type": "plant",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_hibiscus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/pink_hibiscus.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PinkHibiscusBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/pink_hibiscus.json",
+          "src/main/resources/assets/natures_expert/models/block/pink_hibiscus.json",
+          "src/main/resources/assets/natures_expert/blockstates/pink_hibiscus.json"
+        ]
+      }
+    },
+    {
+      "name": "RedHibiscusDyeRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_hibiscus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/red_hibiscus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeHibiscusDyeRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_hibiscus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/orange_hibiscus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowHibiscusDyeRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_hibiscus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/yellow_hibiscus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkHibiscusDyeRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_hibiscus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/pink_hibiscus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "HibiscusGen",
+      "type": "feature",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hibiscus_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/hibiscus_gen.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/hibiscus_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/hibiscus_gen_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeClivia",
+      "type": "plant",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_clivia",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/block/orange_clivia.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/orange_clivia.json",
+          "src/main/java/net/mcreator/naturesexpert/block/OrangeCliviaBlock.java",
+          "src/main/resources/assets/natures_expert/blockstates/orange_clivia.json",
+          "src/main/resources/assets/natures_expert/models/item/orange_clivia.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowClivia",
+      "type": "plant",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_clivia",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/yellow_clivia.json",
+          "src/main/resources/assets/natures_expert/models/block/yellow_clivia.json",
+          "src/main/resources/assets/natures_expert/blockstates/yellow_clivia.json",
+          "src/main/resources/assets/natures_expert/models/item/yellow_clivia.json",
+          "src/main/java/net/mcreator/naturesexpert/block/YellowCliviaBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "RedCliviaDyeRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_clivia_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/red_clivia_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OrangeCliviaDyeRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_clivia_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/orange_clivia_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowCliviaDyeRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_clivia_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/yellow_clivia_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CliviaGen",
+      "type": "feature",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clivia_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/clivia_gen.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/clivia_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/clivia_gen_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkProtea",
+      "type": "plant",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_protea",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/PinkProteaBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/pink_protea.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/pink_protea.json",
+          "src/main/resources/assets/natures_expert/models/block/pink_protea.json",
+          "src/main/resources/assets/natures_expert/blockstates/pink_protea.json"
+        ]
+      }
+    },
+    {
+      "name": "WhiteProtea",
+      "type": "plant",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_protea",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/models/item/white_protea.json",
+          "src/main/resources/assets/natures_expert/blockstates/white_protea.json",
+          "src/main/java/net/mcreator/naturesexpert/block/WhiteProteaBlock.java",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/white_protea.json",
+          "src/main/resources/assets/natures_expert/models/block/white_protea.json"
+        ]
+      }
+    },
+    {
+      "name": "RedProtea",
+      "type": "plant",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_protea",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/natures_expert/blockstates/red_protea.json",
+          "src/main/resources/assets/natures_expert/models/item/red_protea.json",
+          "src/main/java/net/mcreator/naturesexpert/block/RedProteaBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/red_protea.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/red_protea.json"
+        ]
+      }
+    },
+    {
+      "name": "RedProteaDyeRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_protea_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/red_protea_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WhiteProteaDyeRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_protea_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/white_protea_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkProteaDyeRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_protea_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/pink_protea_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "ProteaGen",
+      "type": "feature",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "protea_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/protea_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/protea_gen.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/protea_gen.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1642,53 +2126,68 @@
   "language_map": {
     "en_us": {
       "block.natures_expert.yellow_bearded_iris": "Yellow Bearded Iris",
+      "block.natures_expert.pink_dahlia": "Pink Dahlia",
       "block.natures_expert.purple_bearded_iris": "Purple Bearded Iris",
       "block.natures_expert.bird_of_paradise": "Bird Of Paradise",
-      "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
       "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
+      "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
+      "block.natures_expert.pink_hibiscus": "Pink Hibiscus",
       "block.natures_expert.amaryllis": "Amaryllis",
-      "block.natures_expert.magenta_pansy": "Magenta Pansy",
       "block.natures_expert.white_bearded_iris": "White Bearded Iris",
+      "block.natures_expert.magenta_pansy": "Magenta Pansy",
       "block.natures_expert.carnation": "Carnation",
       "advancements.lucky_advancement.title": "Lucky!",
       "block.natures_expert.astilbe": "Astilbe",
       "block.natures_expert.red_hyacinth": "Red Hyacinth",
-      "block.natures_expert.red_rhododendron_bush": "Red Rhododendron Bush",
       "block.natures_expert.barrel_cactus": "Barrel Cactus",
+      "block.natures_expert.red_rhododendron_bush": "Red Rhododendron Bush",
       "block.natures_expert.blue_pansy": "Blue Pansy",
       "block.natures_expert.anemone": "Anemone",
+      "block.natures_expert.orange_hibiscus": "Orange Hibiscus",
       "item.natures_expert.natures_encyclopedia": "Nature\u0027s Encyclopedia",
       "block.natures_expert.shamrock": "Shamrock",
       "block.natures_expert.red_pansy": "Red Pansy",
       "block.natures_expert.black_pansy": "Black Pansy",
       "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
       "block.natures_expert.pink_rhododendron_bush": "Pink Rhododendron Bush",
-      "block.natures_expert.purple_pansy": "Purple Pansy",
       "block.natures_expert.heath_aster": "Heath Aster",
+      "block.natures_expert.purple_pansy": "Purple Pansy",
       "block.natures_expert.orange_hyacinth": "Orange Hyacinth",
       "block.natures_expert.white_pansy": "White Pansy",
       "block.natures_expert.pink_hyacinth": "Pink Hyacinth",
+      "block.natures_expert.yellow_clivia": "Yellow Clivia",
       "block.natures_expert.calla_lily": "Calla Lily",
       "block.natures_expert.brittlebush": "Brittlebush",
+      "block.natures_expert.pink_protea": "Pink Protea",
       "block.natures_expert.red_bearded_iris": "Red Bearded Iris",
+      "block.natures_expert.yellow_bromeliad": "Yellow Bromeliad",
       "block.natures_expert.light_blue_hyacinth": "Light Blue Hyacinth",
       "block.natures_expert.blue_hyacinth": "Blue Hyacinth",
       "block.natures_expert.light_blue_pansy": "Light Blue Pansy",
       "block.natures_expert.lavender": "Lavender",
       "block.natures_expert.yellow_pansy": "Yellow Pansy",
       "block.natures_expert.yellow_hyacinth": "Yellow Hyacinth",
+      "block.natures_expert.red_dahlia": "Red Dahlia",
       "item_group.natures_expert.natures_expert_creative_tab": "Nature\u0027s Expert",
+      "block.natures_expert.white_protea": "White Protea",
+      "block.natures_expert.red_clivia": "Red Clivia",
       "block.natures_expert.forget_me_nots": "Forget Me Nots",
       "block.natures_expert.pink_pansy": "Pink Pansy",
       "block.natures_expert.orange_bearded_iris": "Orange Bearded Iris",
+      "block.natures_expert.red_bromeliad": "Red Bromeliad",
       "block.natures_expert.blue_bearded_iris": "Blue Bearded Iris",
       "block.natures_expert.yellow_rhododendron_bush": "Yellow Rhododendron Bush",
+      "block.natures_expert.orange_clivia": "Orange Clivia",
       "block.natures_expert.white_rhododendron_bush": "White Rhododendron Bush",
+      "block.natures_expert.orange_bromeliad": "Orange Bromeliad",
       "advancements.lucky_advancement.descr": "Obtain a Lucky Shamrock",
       "block.natures_expert.great_blue_lobelia": "Great Blue Lobelia",
       "block.natures_expert.orange_pansy": "Orange Pansy",
       "block.natures_expert.black_bearded_iris": "Black Bearded Iris",
+      "block.natures_expert.yellow_hibiscus": "Yellow Hibiscus",
       "block.natures_expert.purple_rhododendron_bush": "Purple Rhododendron Bush",
+      "block.natures_expert.red_hibiscus": "Red Hibiscus",
+      "block.natures_expert.red_protea": "Red Protea",
       "block.natures_expert.light_blue_bearded_iris": "Light Blue Bearded Iris",
       "block.natures_expert.marigold": "Marigold",
       "block.natures_expert.purple_hyacinth": "Purple Hyacinth",

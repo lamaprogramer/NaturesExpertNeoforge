@@ -1,0 +1,16 @@
+{
+  "name": "Carnation",
+  "icon": "natures_expert:carnation",
+  "category": "natures_expert:forest",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A pink flower that is part of the Caryophyllaceae family. <br> <li>Blooms in groups of 1-16.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Carnation",
+      "image": "natures_expert:textures/block/carnation.png"
+    }
+  ]
+}

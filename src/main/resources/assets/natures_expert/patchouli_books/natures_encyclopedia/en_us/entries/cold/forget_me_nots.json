@@ -1,0 +1,16 @@
+{
+  "name": "Forget Me Nots",
+  "icon": "natures_expert:forget_me_nots",
+  "category": "natures_expert:cold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A bush of blue and yellow flowers that is part of the Boraginaceae family. <br> <li>Blooms in groups of 1-32.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Forget Me Nots",
+      "image": "natures_expert:textures/block/forget_me_nots.png"
+    }
+  ]
+}

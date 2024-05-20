@@ -1,0 +1,16 @@
+{
+  "name": "Astilbe",
+  "icon": "natures_expert:astilbe",
+  "category": "natures_expert:plains",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A white flower that is part of the Saxifrages family. <br> <li>Blooms in groups of 1-16.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Astilbe",
+      "image": "natures_expert:textures/block/astilbe.png"
+    }
+  ]
+}

@@ -68,6 +68,21 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> MAGENTA_PANSY = block(NaturesExpertModBlocks.MAGENTA_PANSY);
 	public static final DeferredHolder<Item, Item> PURPLE_PANSY = block(NaturesExpertModBlocks.PURPLE_PANSY);
 	public static final DeferredHolder<Item, Item> WHITE_PANSY = block(NaturesExpertModBlocks.WHITE_PANSY);
+	public static final DeferredHolder<Item, Item> PINK_DAHLIA = block(NaturesExpertModBlocks.PINK_DAHLIA);
+	public static final DeferredHolder<Item, Item> RED_DAHLIA = block(NaturesExpertModBlocks.RED_DAHLIA);
+	public static final DeferredHolder<Item, Item> RED_BROMELIAD = block(NaturesExpertModBlocks.RED_BROMELIAD);
+	public static final DeferredHolder<Item, Item> ORANGE_BROMELIAD = block(NaturesExpertModBlocks.ORANGE_BROMELIAD);
+	public static final DeferredHolder<Item, Item> YELLOW_BROMELIAD = block(NaturesExpertModBlocks.YELLOW_BROMELIAD);
+	public static final DeferredHolder<Item, Item> RED_HIBISCUS = block(NaturesExpertModBlocks.RED_HIBISCUS);
+	public static final DeferredHolder<Item, Item> RED_CLIVIA = block(NaturesExpertModBlocks.RED_CLIVIA);
+	public static final DeferredHolder<Item, Item> ORANGE_HIBISCUS = block(NaturesExpertModBlocks.ORANGE_HIBISCUS);
+	public static final DeferredHolder<Item, Item> YELLOW_HIBISCUS = block(NaturesExpertModBlocks.YELLOW_HIBISCUS);
+	public static final DeferredHolder<Item, Item> PINK_HIBISCUS = block(NaturesExpertModBlocks.PINK_HIBISCUS);
+	public static final DeferredHolder<Item, Item> ORANGE_CLIVIA = block(NaturesExpertModBlocks.ORANGE_CLIVIA);
+	public static final DeferredHolder<Item, Item> YELLOW_CLIVIA = block(NaturesExpertModBlocks.YELLOW_CLIVIA);
+	public static final DeferredHolder<Item, Item> PINK_PROTEA = block(NaturesExpertModBlocks.PINK_PROTEA);
+	public static final DeferredHolder<Item, Item> WHITE_PROTEA = block(NaturesExpertModBlocks.WHITE_PROTEA);
+	public static final DeferredHolder<Item, Item> RED_PROTEA = block(NaturesExpertModBlocks.RED_PROTEA);
 
 	// Start of user code block custom items
 	// End of user code block custom items

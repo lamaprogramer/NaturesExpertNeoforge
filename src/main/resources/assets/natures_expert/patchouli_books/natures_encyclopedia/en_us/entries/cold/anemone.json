@@ -1,0 +1,16 @@
+{
+  "name": "Anemone",
+  "icon": "natures_expert:anemone",
+  "category": "natures_expert:cold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A white and black flower that is part of the Ranunculaceae family. <br> <li>Blooms in groups of 1-16.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Anemone",
+      "image": "natures_expert:textures/block/anemone.png"
+    }
+  ]
+}

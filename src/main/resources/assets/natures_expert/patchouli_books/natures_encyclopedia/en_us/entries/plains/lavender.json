@@ -1,0 +1,16 @@
+{
+  "name": "Lavender",
+  "icon": "natures_expert:lavender",
+  "category": "natures_expert:plains",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Purple flowers that are part of the Lamiaceae family. <br> <li>Blooms in groups of 1-48.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Lavender",
+      "image": "natures_expert:textures/block/lavender.png"
+    }
+  ]
+}
