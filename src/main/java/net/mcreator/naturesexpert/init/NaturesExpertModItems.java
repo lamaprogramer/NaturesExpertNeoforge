@@ -83,6 +83,12 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> PINK_PROTEA = block(NaturesExpertModBlocks.PINK_PROTEA);
 	public static final DeferredHolder<Item, Item> WHITE_PROTEA = block(NaturesExpertModBlocks.WHITE_PROTEA);
 	public static final DeferredHolder<Item, Item> RED_PROTEA = block(NaturesExpertModBlocks.RED_PROTEA);
+	public static final DeferredHolder<Item, Item> FIREWEED = doubleBlock(NaturesExpertModBlocks.FIREWEED);
+	public static final DeferredHolder<Item, Item> PURPLE_CROCUS = block(NaturesExpertModBlocks.PURPLE_CROCUS);
+	public static final DeferredHolder<Item, Item> SNOWDROP = block(NaturesExpertModBlocks.SNOWDROP);
+	public static final DeferredHolder<Item, Item> WHITE_CROCUS = block(NaturesExpertModBlocks.WHITE_CROCUS);
+	public static final DeferredHolder<Item, Item> YELLOW_CROCUS = block(NaturesExpertModBlocks.YELLOW_CROCUS);
+	public static final DeferredHolder<Item, Item> LIGHT_BLUE_CROCUS = block(NaturesExpertModBlocks.LIGHT_BLUE_CROCUS);
 
 	// Start of user code block custom items
 	// End of user code block custom items

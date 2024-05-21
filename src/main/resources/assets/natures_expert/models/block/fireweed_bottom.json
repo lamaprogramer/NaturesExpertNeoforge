@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/fireweed_bottom",
+    "particle": "natures_expert:block/fireweed_bottom"
+  },
+  "render_type": "cutout"
+}

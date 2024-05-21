@@ -2118,6 +2118,208 @@
           "src/main/resources/data/natures_expert/worldgen/placed_feature/protea_gen.json"
         ]
       }
+    },
+    {
+      "name": "Fireweed",
+      "type": "plant",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireweed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/FireweedBlock.java",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/fireweed.json",
+          "src/main/resources/assets/natures_expert/blockstates/fireweed.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/fireweed_biome_modifier.json",
+          "src/main/resources/assets/natures_expert/models/block/fireweed.json",
+          "src/main/resources/assets/natures_expert/models/block/fireweed_bottom.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/fireweed.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/fireweed.json",
+          "src/main/resources/assets/natures_expert/models/item/fireweed.json"
+        ]
+      }
+    },
+    {
+      "name": "FireweedDyeRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireweed_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/fireweed_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PurpleCrocus",
+      "type": "plant",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_crocus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/purple_crocus.json",
+          "src/main/java/net/mcreator/naturesexpert/block/PurpleCrocusBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/purple_crocus.json",
+          "src/main/resources/assets/natures_expert/models/block/purple_crocus.json",
+          "src/main/resources/assets/natures_expert/blockstates/purple_crocus.json"
+        ]
+      }
+    },
+    {
+      "name": "Snowdrop",
+      "type": "plant",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snowdrop",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/SnowdropBlock.java",
+          "src/main/resources/assets/natures_expert/blockstates/snowdrop.json",
+          "src/main/resources/assets/natures_expert/models/item/snowdrop.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/snowdrop.json",
+          "src/main/resources/assets/natures_expert/models/block/snowdrop.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/snowdrop_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/snowdrop.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/snowdrop.json"
+        ]
+      }
+    },
+    {
+      "name": "WhiteCrocus",
+      "type": "plant",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_crocus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/loot_tables/blocks/white_crocus.json",
+          "src/main/resources/assets/natures_expert/blockstates/white_crocus.json",
+          "src/main/java/net/mcreator/naturesexpert/block/WhiteCrocusBlock.java",
+          "src/main/resources/assets/natures_expert/models/block/white_crocus.json",
+          "src/main/resources/assets/natures_expert/models/item/white_crocus.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowCrocus",
+      "type": "plant",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_crocus",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/YellowCrocusBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/yellow_crocus.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/yellow_crocus.json",
+          "src/main/resources/assets/natures_expert/models/block/yellow_crocus.json",
+          "src/main/resources/assets/natures_expert/blockstates/yellow_crocus.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlueCrocus",
+      "type": "plant",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_crocus",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/naturesexpert/block/LightBlueCrocusBlock.java",
+          "src/main/resources/assets/natures_expert/models/item/light_blue_crocus.json",
+          "src/main/resources/assets/natures_expert/models/block/light_blue_crocus.json",
+          "src/main/resources/assets/natures_expert/blockstates/light_blue_crocus.json",
+          "src/main/resources/data/natures_expert/loot_tables/blocks/light_blue_crocus.json"
+        ]
+      }
+    },
+    {
+      "name": "CrocusGen",
+      "type": "feature",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crocus_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/crocus_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/crocus_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/crocus_gen.json"
+        ]
+      }
+    },
+    {
+      "name": "PurpleCrocusDyeRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_crocus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/purple_crocus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "YellowCrocusDyeRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_crocus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/yellow_crocus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlueCrocusDyeRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_crocus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/light_blue_crocus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WhiteCrocusDyeRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_crocus_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/white_crocus_dye_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SnowdropDyeRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snowdrop_dye_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/recipes/snowdrop_dye_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2127,20 +2329,22 @@
     "en_us": {
       "block.natures_expert.yellow_bearded_iris": "Yellow Bearded Iris",
       "block.natures_expert.pink_dahlia": "Pink Dahlia",
+      "block.natures_expert.white_crocus": "White Crocus",
       "block.natures_expert.purple_bearded_iris": "Purple Bearded Iris",
       "block.natures_expert.bird_of_paradise": "Bird Of Paradise",
-      "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
-      "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
       "block.natures_expert.pink_hibiscus": "Pink Hibiscus",
+      "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
+      "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
       "block.natures_expert.amaryllis": "Amaryllis",
-      "block.natures_expert.white_bearded_iris": "White Bearded Iris",
       "block.natures_expert.magenta_pansy": "Magenta Pansy",
+      "block.natures_expert.white_bearded_iris": "White Bearded Iris",
       "block.natures_expert.carnation": "Carnation",
       "advancements.lucky_advancement.title": "Lucky!",
+      "block.natures_expert.light_blue_crocus": "Light Blue Crocus",
       "block.natures_expert.astilbe": "Astilbe",
       "block.natures_expert.red_hyacinth": "Red Hyacinth",
-      "block.natures_expert.barrel_cactus": "Barrel Cactus",
       "block.natures_expert.red_rhododendron_bush": "Red Rhododendron Bush",
+      "block.natures_expert.barrel_cactus": "Barrel Cactus",
       "block.natures_expert.blue_pansy": "Blue Pansy",
       "block.natures_expert.anemone": "Anemone",
       "block.natures_expert.orange_hibiscus": "Orange Hibiscus",
@@ -2149,6 +2353,7 @@
       "block.natures_expert.red_pansy": "Red Pansy",
       "block.natures_expert.black_pansy": "Black Pansy",
       "block.natures_expert.lucky_shamrock": "Lucky Shamrock",
+      "block.natures_expert.fireweed": "Fireweed",
       "block.natures_expert.pink_rhododendron_bush": "Pink Rhododendron Bush",
       "block.natures_expert.heath_aster": "Heath Aster",
       "block.natures_expert.purple_pansy": "Purple Pansy",
@@ -2170,8 +2375,10 @@
       "block.natures_expert.red_dahlia": "Red Dahlia",
       "item_group.natures_expert.natures_expert_creative_tab": "Nature\u0027s Expert",
       "block.natures_expert.white_protea": "White Protea",
+      "block.natures_expert.purple_crocus": "Purple Crocus",
       "block.natures_expert.red_clivia": "Red Clivia",
       "block.natures_expert.forget_me_nots": "Forget Me Nots",
+      "block.natures_expert.snowdrop": "Snowdrop",
       "block.natures_expert.pink_pansy": "Pink Pansy",
       "block.natures_expert.orange_bearded_iris": "Orange Bearded Iris",
       "block.natures_expert.red_bromeliad": "Red Bromeliad",
@@ -2185,6 +2392,7 @@
       "block.natures_expert.orange_pansy": "Orange Pansy",
       "block.natures_expert.black_bearded_iris": "Black Bearded Iris",
       "block.natures_expert.yellow_hibiscus": "Yellow Hibiscus",
+      "block.natures_expert.yellow_crocus": "Yellow Crocus",
       "block.natures_expert.purple_rhododendron_bush": "Purple Rhododendron Bush",
       "block.natures_expert.red_hibiscus": "Red Hibiscus",
       "block.natures_expert.red_protea": "Red Protea",

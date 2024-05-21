@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "natures_expert:block/fireweed"
+    },
+    "half=lower": {
+      "model": "natures_expert:block/fireweed_bottom"
+    }
+  }
+}

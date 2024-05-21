@@ -1,0 +1,31 @@
+{
+  "name": "Crocus",
+  "icon": "natures_expert:yellow_crocus",
+  "category": "natures_expert:cold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A bush of yellow, light blue, purple, or white flowers that is part of the Iridaceae family. <br> <li>Blooms in medium groups.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Yellow Crocus",
+      "image": "natures_expert:textures/block/yellow_crocus.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Light Blue Crocus",
+      "image": "natures_expert:textures/block/light_blue_crocus.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Purple Crocus",
+      "image": "natures_expert:textures/block/purple_crocus.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "White Crocus",
+      "image": "natures_expert:textures/block/white_crocus.png"
+    }
+  ]
+}

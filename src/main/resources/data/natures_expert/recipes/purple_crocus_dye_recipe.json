@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "natures_expert:purple_crocus"
+    }
+  ],
+  "result": {
+    "item": "minecraft:purple_dye",
+    "count": 1
+  }
+}

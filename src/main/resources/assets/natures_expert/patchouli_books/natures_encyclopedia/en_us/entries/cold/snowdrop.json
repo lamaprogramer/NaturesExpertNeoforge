@@ -1,0 +1,16 @@
+{
+  "name": "Snowdrop",
+  "icon": "natures_expert:snowdrop",
+  "category": "natures_expert:cold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A white flower that is part of the Galanthus family. <br> <li>Blooms in groups of 1-32.</>"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Snowdrop",
+      "image": "natures_expert:textures/block/snowdrop.png"
+    }
+  ]
+}

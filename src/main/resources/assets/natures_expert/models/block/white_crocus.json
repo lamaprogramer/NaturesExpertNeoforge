@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/white_crocus",
+    "particle": "natures_expert:block/white_crocus"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "natures_expert:fireweed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 2
+  }
+}

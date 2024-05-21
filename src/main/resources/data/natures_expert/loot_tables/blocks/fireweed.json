@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "natures_expert:blocks/fireweed",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "natures_expert:fireweed",
+          "conditions": [
+            {
+              "block": "natures_expert:fireweed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
