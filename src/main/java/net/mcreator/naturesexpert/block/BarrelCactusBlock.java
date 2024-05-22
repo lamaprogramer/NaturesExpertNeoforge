@@ -25,7 +25,7 @@ import java.util.List;
 
 public class BarrelCactusBlock extends FlowerBlock {
 	public BarrelCactusBlock() {
-		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.MOVEMENT_SPEED, 100)),
+		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.WITHER, 100)),
 				BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 

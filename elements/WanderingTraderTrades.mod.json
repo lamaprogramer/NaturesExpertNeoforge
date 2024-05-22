@@ -336,13 +336,175 @@
             "price1": {
               "value": "Items.EMERALD"
             },
-            "countPrice1": 1,
+            "countPrice1": 2,
             "price2": {
               "value": ""
             },
             "countPrice2": 1,
             "offer": {
               "value": "CUSTOM:HeliconiaStricta"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 8,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:ForgetMeNots"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 8,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:BarrelCactus"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 6,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Brittlebush"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 8,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Carnation"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 12,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:RedClivia"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 6,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OrangeClivia"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 6,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:YellowClivia"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 6,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:BirdOfParadise"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 8,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:HeathAster"
             },
             "countOffer": 1,
             "level": 1,

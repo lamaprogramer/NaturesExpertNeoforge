@@ -17,7 +17,7 @@ import java.util.List;
 
 public class GreatBlueLobeliaBlock extends FlowerBlock {
 	public GreatBlueLobeliaBlock() {
-		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.MOVEMENT_SPEED, 100)),
+		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.DAMAGE_BOOST, 100)),
 				BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 

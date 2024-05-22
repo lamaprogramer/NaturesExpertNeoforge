@@ -70,8 +70,35 @@ public class NaturesExpertModTrades {
 		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD),
 
 				new ItemStack(NaturesExpertModBlocks.BLACK_BEARDED_IRIS.get()), 12, 5, 0.05f));
-		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD),
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
 
 				new ItemStack(NaturesExpertModBlocks.HELICONIA_STRICTA.get()), 8, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
+
+				new ItemStack(NaturesExpertModBlocks.FORGET_ME_NOTS.get()), 8, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 3),
+
+				new ItemStack(NaturesExpertModBlocks.BARREL_CACTUS.get()), 6, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
+
+				new ItemStack(NaturesExpertModBlocks.BRITTLEBUSH.get()), 8, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD),
+
+				new ItemStack(NaturesExpertModBlocks.CARNATION.get()), 12, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
+
+				new ItemStack(NaturesExpertModBlocks.RED_CLIVIA.get()), 6, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
+
+				new ItemStack(NaturesExpertModBlocks.ORANGE_CLIVIA.get()), 6, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
+
+				new ItemStack(NaturesExpertModBlocks.YELLOW_CLIVIA.get()), 6, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
+
+				new ItemStack(NaturesExpertModBlocks.BIRD_OF_PARADISE.get()), 8, 5, 0.05f));
+		event.getGenericTrades().add(new BasicItemListing(new ItemStack(Items.EMERALD, 2),
+
+				new ItemStack(NaturesExpertModBlocks.HEATH_ASTER.get()), 8, 5, 0.05f));
 	}
 }

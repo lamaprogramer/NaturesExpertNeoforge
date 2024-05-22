@@ -17,7 +17,7 @@ import java.util.List;
 
 public class WhitePansyBlock extends FlowerBlock {
 	public WhitePansyBlock() {
-		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.MOVEMENT_SPEED, 100)),
+		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.GLOWING, 100)),
 				BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 

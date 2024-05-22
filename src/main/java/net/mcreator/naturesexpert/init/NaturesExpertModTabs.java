@@ -66,6 +66,10 @@ public class NaturesExpertModTabs {
 				tabData.accept(NaturesExpertModBlocks.RED_PROTEA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.PINK_PROTEA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.WHITE_PROTEA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.YELLOW_CROCUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.LIGHT_BLUE_CROCUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PURPLE_CROCUS.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.WHITE_CROCUS.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.AMARYLLIS.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.HELICONIA_STRICTA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.BIRD_OF_PARADISE.get().asItem());
@@ -77,17 +81,13 @@ public class NaturesExpertModTabs {
 				tabData.accept(NaturesExpertModBlocks.FORGET_ME_NOTS.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.GREAT_BLUE_LOBELIA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.LAVENDER.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.FIREWEED.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.CARNATION.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.ANEMONE.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.ASTILBE.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.CALLA_LILY.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.HEATH_ASTER.get().asItem());
-				tabData.accept(NaturesExpertModBlocks.FIREWEED.get().asItem());
-				tabData.accept(NaturesExpertModBlocks.PURPLE_CROCUS.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.SNOWDROP.get().asItem());
-				tabData.accept(NaturesExpertModBlocks.WHITE_CROCUS.get().asItem());
-				tabData.accept(NaturesExpertModBlocks.YELLOW_CROCUS.get().asItem());
-				tabData.accept(NaturesExpertModBlocks.LIGHT_BLUE_CROCUS.get().asItem());
 			})
 
 					.build());

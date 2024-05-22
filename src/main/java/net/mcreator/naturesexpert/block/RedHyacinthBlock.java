@@ -17,7 +17,7 @@ import java.util.List;
 
 public class RedHyacinthBlock extends FlowerBlock {
 	public RedHyacinthBlock() {
-		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.HARM, 0)),
+		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.SATURATION, 0)),
 				BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 
