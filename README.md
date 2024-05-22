@@ -1,14 +1,11 @@
-![Nature's Expert](https://media.forgecdn.net/attachments/description/1022493/description_f6ee6558-5dc3-413a-bba3-b8c75f5e7c07.png)
-
 <div align="center">
+  <img src="https://media.forgecdn.net/attachments/description/1022493/description_f6ee6558-5dc3-413a-bba3-b8c75f5e7c07.png" alt="Nature's Expert">
   <h1><strong>Participant MCreator x CurseForge ModJam 2024</strong></h1>
-<span>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/patchouli" rel="nofollow"><img src="https://img.shields.io/badge/Requires Patchouli-orange?style=for-the-badge&logo=curseforge&labelColor=grey" alt="Requires Patchouli"></a>
-
-  <img src="https://img.shields.io/curseforge/v/1022493?style=for-the-badge&logo=curseforge&labelColor=grey&color=orange" alt="Version">
-
-  <img src="https://img.shields.io/curseforge/game-versions/1022493?style=for-the-badge&logo=curseforge&labelColor=grey&color=orange" alt="Game Version">
-</span>
+  <span>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/patchouli" rel="nofollow"><img src="https://img.shields.io/badge/Requires%20Patchouli-orange?style=for-the-badge&logo=curseforge&labelColor=grey" alt="Requires Patchouli"></a>
+    <img src="https://img.shields.io/curseforge/v/1022493?style=for-the-badge&logo=curseforge&labelColor=grey&color=orange" alt="Version">
+    <img src="https://img.shields.io/curseforge/game-versions/1022493?style=for-the-badge&logo=curseforge&labelColor=grey&color=orange" alt="Game Version">
+  </span>
 </div>
 
 # Description
