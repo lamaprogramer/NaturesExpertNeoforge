@@ -1,0 +1,36 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "natures_expert:red_pansy"
+    },
+    "title": {
+      "translate": "advancements.a_field_of_color_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.a_field_of_color_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_field_of_color_advancement_0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "natures_expert:flower_fields"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

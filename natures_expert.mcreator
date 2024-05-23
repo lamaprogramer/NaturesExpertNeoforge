@@ -2320,11 +2320,93 @@
           "src/main/resources/data/natures_expert/recipes/snowdrop_dye_recipe.json"
         ]
       }
+    },
+    {
+      "name": "ShamrockFields",
+      "type": "biome",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shamrock_fields",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/biome/shamrock_fields.json"
+        ]
+      }
+    },
+    {
+      "name": "ShamrockFieldsGen",
+      "type": "feature",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shamrock_fields_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/shamrock_fields_gen.json",
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/shamrock_fields_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/shamrock_fields_gen.json"
+        ]
+      }
+    },
+    {
+      "name": "FlowerFields",
+      "type": "biome",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flower_fields",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/worldgen/biome/flower_fields.json"
+        ]
+      }
+    },
+    {
+      "name": "FlowerFieldsGen",
+      "type": "feature",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flower_fields_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/neoforge/biome_modifier/flower_fields_gen_biome_modifier.json",
+          "src/main/resources/data/natures_expert/worldgen/configured_feature/flower_fields_gen.json",
+          "src/main/resources/data/natures_expert/worldgen/placed_feature/flower_fields_gen.json"
+        ]
+      }
+    },
+    {
+      "name": "AFieldOfColorAdvancement",
+      "type": "achievement",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_field_of_color_advancement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/natures_expert/advancements/a_field_of_color_advancement.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
-  "tag_elements": {},
+  "tag_elements": {
+    "BIOMES:minecraft:has_structure/stronghold": [
+      "~CUSTOM:ShamrockFields"
+    ],
+    "BIOMES:minecraft:has_structure/mineshaft": [
+      "~CUSTOM:ShamrockFields"
+    ],
+    "BIOMES:minecraft:has_structure/ruined_portal_standard": [
+      "~CUSTOM:ShamrockFields"
+    ],
+    "BIOMES:minecraft:has_structure/village_plains": [
+      "~CUSTOM:ShamrockFields"
+    ]
+  },
   "language_map": {
     "en_us": {
       "block.natures_expert.yellow_bearded_iris": "Yellow Bearded Iris",
@@ -2332,9 +2414,9 @@
       "block.natures_expert.white_crocus": "White Crocus",
       "block.natures_expert.purple_bearded_iris": "Purple Bearded Iris",
       "block.natures_expert.bird_of_paradise": "Bird Of Paradise",
-      "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
-      "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
       "block.natures_expert.pink_hibiscus": "Pink Hibiscus",
+      "block.natures_expert.pink_bearded_iris": "Pink Bearded Iris",
+      "block.natures_expert.orange_rhododendron_bush": "Orange Rhododendron Bush",
       "block.natures_expert.amaryllis": "Amaryllis",
       "block.natures_expert.magenta_pansy": "Magenta Pansy",
       "block.natures_expert.white_bearded_iris": "White Bearded Iris",
@@ -2343,8 +2425,8 @@
       "block.natures_expert.light_blue_crocus": "Light Blue Crocus",
       "block.natures_expert.astilbe": "Astilbe",
       "block.natures_expert.red_hyacinth": "Red Hyacinth",
-      "block.natures_expert.barrel_cactus": "Barrel Cactus",
       "block.natures_expert.red_rhododendron_bush": "Red Rhododendron Bush",
+      "block.natures_expert.barrel_cactus": "Barrel Cactus",
       "block.natures_expert.blue_pansy": "Blue Pansy",
       "block.natures_expert.anemone": "Anemone",
       "block.natures_expert.orange_hibiscus": "Orange Hibiscus",
@@ -2363,16 +2445,20 @@
       "block.natures_expert.yellow_clivia": "Yellow Clivia",
       "block.natures_expert.calla_lily": "Calla Lily",
       "block.natures_expert.brittlebush": "Brittlebush",
+      "biome.natures_expert.shamrock_fields": "Shamrock Fields",
       "block.natures_expert.pink_protea": "Pink Protea",
       "block.natures_expert.red_bearded_iris": "Red Bearded Iris",
       "block.natures_expert.yellow_bromeliad": "Yellow Bromeliad",
+      "biome.natures_expert.flower_fields": "Flower Fields",
       "block.natures_expert.light_blue_hyacinth": "Light Blue Hyacinth",
+      "advancements.a_field_of_color_advancement.title": "A Field Of Color!",
       "block.natures_expert.blue_hyacinth": "Blue Hyacinth",
       "block.natures_expert.light_blue_pansy": "Light Blue Pansy",
       "block.natures_expert.lavender": "Lavender",
       "block.natures_expert.yellow_pansy": "Yellow Pansy",
       "block.natures_expert.yellow_hyacinth": "Yellow Hyacinth",
       "block.natures_expert.red_dahlia": "Red Dahlia",
+      "advancements.a_field_of_color_advancement.descr": "Find a flower field!",
       "item_group.natures_expert.natures_expert_creative_tab": "Nature\u0027s Expert",
       "block.natures_expert.white_protea": "White Protea",
       "block.natures_expert.purple_crocus": "Purple Crocus",

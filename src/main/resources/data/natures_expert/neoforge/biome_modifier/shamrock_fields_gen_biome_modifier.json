@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "natures_expert:shamrock_fields",
+  "features": "natures_expert:shamrock_fields_gen",
+  "step": "vegetal_decoration"
+}

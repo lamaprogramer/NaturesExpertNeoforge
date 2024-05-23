@@ -163,7 +163,6 @@ public class NaturesExpertModBlocks {
 	public static class ClientSideHandler {
 		@SubscribeEvent
 		public static void blockColorLoad(RegisterColorHandlersEvent.Block event) {
-			ShamrockBlock.blockColorLoad(event);
 			LuckyShamrockBlock.blockColorLoad(event);
 		}
 	}
