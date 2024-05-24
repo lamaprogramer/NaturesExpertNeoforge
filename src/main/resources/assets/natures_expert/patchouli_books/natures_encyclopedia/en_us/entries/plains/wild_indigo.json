@@ -1,0 +1,16 @@
+{
+  "name": "Wild Indigo",
+  "icon": "natures_expert:wild_indigo",
+  "category": "natures_expert:plains",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "<bold>Description:</> <br>A bush with, small flowers on long stems protruding from the bush. <br><br><bold>Colors:</> light purple <br><br><bold>Family:</> Fabaceae"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Wild Indigo",
+      "image": "natures_expert:textures/block/wild_indigo.png"
+    }
+  ]
+}

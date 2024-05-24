@@ -55,9 +55,9 @@ public class NaturesExpertModBiomes {
 							Climate.Parameter.span(-0.35f, 0.35f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("natures_expert", "shamrock_fields")))));
 					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(0f, 0.25f), Climate.Parameter.span(-0.25f, 0.15f), Climate.Parameter.span(0.03f, 1f), Climate.Parameter.span(-0.05f, 0.3f), Climate.Parameter.point(1.0f),
 							Climate.Parameter.span(-0.35f, 0.35f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("natures_expert", "shamrock_fields")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.25f, 0f), Climate.Parameter.span(-0.15f, 0.2f), Climate.Parameter.span(0.03f, 1f), Climate.Parameter.span(0f, 0.3f), Climate.Parameter.point(0.0f),
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.25f, 0f), Climate.Parameter.span(-0.15f, 0.2f), Climate.Parameter.span(0.03f, 1f), Climate.Parameter.span(-0.1f, 0.3f), Climate.Parameter.point(0.0f),
 							Climate.Parameter.span(-0.35f, 0.35f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("natures_expert", "flower_fields")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.25f, 0f), Climate.Parameter.span(-0.15f, 0.2f), Climate.Parameter.span(0.03f, 1f), Climate.Parameter.span(0f, 0.3f), Climate.Parameter.point(1.0f),
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.25f, 0f), Climate.Parameter.span(-0.15f, 0.2f), Climate.Parameter.span(0.03f, 1f), Climate.Parameter.span(-0.1f, 0.3f), Climate.Parameter.point(1.0f),
 							Climate.Parameter.span(-0.35f, 0.35f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("natures_expert", "flower_fields")))));
 					chunkGenerator.biomeSource = MultiNoiseBiomeSource.createFromList(new Climate.ParameterList<>(parameters));
 					chunkGenerator.featuresPerStep = Suppliers

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/yellow_coneflower",
+    "particle": "natures_expert:block/yellow_coneflower"
+  },
+  "render_type": "cutout"
+}

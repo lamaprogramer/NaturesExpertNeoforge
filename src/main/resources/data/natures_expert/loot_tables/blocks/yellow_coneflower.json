@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "natures_expert:blocks/yellow_coneflower",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "natures_expert:yellow_coneflower"
+        }
+      ]
+    }
+  ]
+}

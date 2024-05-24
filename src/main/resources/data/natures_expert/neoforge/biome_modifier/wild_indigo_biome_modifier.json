@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#forge:is_plains",
+  "features": "natures_expert:wild_indigo",
+  "step": "vegetal_decoration"
+}

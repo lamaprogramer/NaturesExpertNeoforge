@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A red, orange, yellow, blue, light blue, magenta, purple, pink, black, or white flower that is part of the Asparagaceae family. <br> <li>Blooms in medium groups.</>"
+      "text": "<bold>Description:</> <br>A short, small flower with 3-5 petals similar in shape to a clover leaf. <br><br><bold>Colors:</> red, orange, yellow, blue, light blue, magenta, purple, pink, black, or white <br><br><bold>Family:</> Asparagaceae"
     },
     {
       "type": "natures_expert:flower_display",

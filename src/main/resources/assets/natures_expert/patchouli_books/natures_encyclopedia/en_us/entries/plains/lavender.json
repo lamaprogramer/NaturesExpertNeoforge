@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Purple flowers that are part of the Lamiaceae family. <br> <li>Blooms in groups of 1-48.</>"
+      "text": "<bold>Description:</> <br>A grass-like flower, with small flowers toward the tips. <br><br><bold>Colors:</> purple <br><br><bold>Family:</> Lamiaceae"
     },
     {
       "type": "natures_expert:flower_display",

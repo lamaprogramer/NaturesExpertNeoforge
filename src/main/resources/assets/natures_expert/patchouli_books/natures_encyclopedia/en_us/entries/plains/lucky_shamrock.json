@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Variant of Shamrock that can rarely be found in Shamrock patches. It is commonly used as a symbol of luck."
+      "text": "<bold>Description:</> <br>Variant of Shamrock that can rarely be found in Shamrock patches. It is commonly used as a symbol of luck."
     },
     {
       "type": "natures_expert:flower_display",

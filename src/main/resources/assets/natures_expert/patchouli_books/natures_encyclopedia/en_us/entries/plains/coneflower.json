@@ -1,0 +1,36 @@
+{
+  "name": "Coneflower",
+  "icon": "natures_expert:red_coneflower",
+  "category": "natures_expert:plains",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "<bold>Description:</> <br>A flower with long, thin flower petals, typically angled downward. <br><br><bold>Colors:</> red, orange, yellow, pink, or white <br><br><bold>Family:</> Asteraceae"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Red Coneflower",
+      "image": "natures_expert:textures/block/red_coneflower.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Orange Coneflower",
+      "image": "natures_expert:textures/block/orange_coneflower.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Yellow Coneflower",
+      "image": "natures_expert:textures/block/yellow_coneflower.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Pink Coneflower",
+      "image": "natures_expert:textures/block/pink_coneflower.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "White Coneflower",
+      "image": "natures_expert:textures/block/white_coneflower.png"
+    }
+  ]
+}
