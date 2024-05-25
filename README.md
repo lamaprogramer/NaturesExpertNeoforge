@@ -9,18 +9,19 @@
 </div>
 
 # Description
-🌹 Nature's Expert adds over 70 new flowers with mostly decorative purposes.
+
+🌹 Nature's Expert adds over 80 new flowers, 2 new biomes, and new advancements!
+
+<div align="center">
+  <img src="https://media.forgecdn.net/attachments/description/1022493/description_07f706ed-17a1-4cf9-bcde-8b53aa40cb8b.png" alt="Flower Display">
+  <br>
+  <br>
+</div>
 
 🌎 Each flower is based on a flower that can be found in the real world, so if a particular flower interests you, you can find out how to grow it yourself!
 
-📖 A list of every flower can be found on either the wiki, or the mod's built-in guidebook.
+📖 Everything in the mod can be found in either the [wiki](https://github.com/lamaprogramer/NaturesExpertNeoforge/wiki), or the mod's built-in guidebook!
 
-# About the wiki/guidebook (WIP)
+# Translations
 
-### The wiki/guidebook will provide:
-
-- A basic description of the flower.
-- An image of the flower (not irl).
-- The flower family.
-- The colors it can be found in.
-- The patch size.
+If anyone is interested in translating the mod to other languages, feel free to do so! You can either create a PR (pull request) on GitHub, or send me the file over Discord!
