@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A white flower that is part of the Galanthus family. <br> <li>Blooms in groups of 1-32.</>"
+      "text": "<bold>Description:</> <br>A small flower with 3-5 long petals and hangs upside-down from it's stem. <br><br><bold>Colors:</> white <br><br><bold>Family:</> Galanthus"
     },
     {
       "type": "natures_expert:flower_display",

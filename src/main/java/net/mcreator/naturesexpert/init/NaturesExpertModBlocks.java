@@ -32,6 +32,7 @@ import net.mcreator.naturesexpert.block.WhiteConeflowerBlock;
 import net.mcreator.naturesexpert.block.WhiteBeardedIrisBlock;
 import net.mcreator.naturesexpert.block.SnowdropBlock;
 import net.mcreator.naturesexpert.block.ShamrockBlock;
+import net.mcreator.naturesexpert.block.SavannaBlazingStarBlock;
 import net.mcreator.naturesexpert.block.RedRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.RedProteaBlock;
 import net.mcreator.naturesexpert.block.RedPansyBlock;
@@ -168,6 +169,7 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> PINK_CONEFLOWER = REGISTRY.register("pink_coneflower", () -> new PinkConeflowerBlock());
 	public static final DeferredHolder<Block, Block> YELLOW_CONEFLOWER = REGISTRY.register("yellow_coneflower", () -> new YellowConeflowerBlock());
 	public static final DeferredHolder<Block, Block> WHITE_CONEFLOWER = REGISTRY.register("white_coneflower", () -> new WhiteConeflowerBlock());
+	public static final DeferredHolder<Block, Block> SAVANNA_BLAZING_STAR = REGISTRY.register("savanna_blazing_star", () -> new SavannaBlazingStarBlock());
 
 	// Start of user code block custom blocks
 	// End of user code block custom blocks

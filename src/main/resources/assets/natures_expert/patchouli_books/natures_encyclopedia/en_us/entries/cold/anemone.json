@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A white and black flower that is part of the Ranunculaceae family. <br> <li>Blooms in groups of 1-16.</>"
+      "text": "<bold>Description:</> <br>A flower with multiple petals and a black center. <br><br><bold>Colors:</> white <br><br><bold>Family:</> Ranunculaceae"
     },
     {
       "type": "natures_expert:flower_display",

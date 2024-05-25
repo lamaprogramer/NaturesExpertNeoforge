@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A orange and blue flower that is part of the Paradisaeidae family. <br> <li>Blooms in groups of 1-8.</>"
+      "text": "<bold>Description:</> <br>A flower with long, pointy petals facing upward, giving the appearance of a bird. <br><br><bold>Colors:</> (orange and blue) <br><br><bold>Family:</> Paradisaeidae"
     },
     {
       "type": "natures_expert:flower_display",

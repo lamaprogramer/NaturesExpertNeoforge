@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush of white and yellow flowers that is part of the Asteraceae family. <br> <li>Blooms in groups of 1-24.</>"
+      "text": "<bold>Description:</> <br>A bush of small flowers. <br><br><bold>Colors:</> (white and yellow) <br><br><bold>Family:</> Asteraceae"
     },
     {
       "type": "natures_expert:flower_display",

@@ -87,6 +87,7 @@ public class NaturesExpertModTabs {
 				tabData.accept(NaturesExpertModBlocks.GREAT_BLUE_LOBELIA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.WILD_INDIGO.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.LAVENDER.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.SAVANNA_BLAZING_STAR.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.FIREWEED.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.CARNATION.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.ANEMONE.get().asItem());

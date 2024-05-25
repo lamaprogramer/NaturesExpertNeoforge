@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush with ball-shaped groups of red, orange, yellow, purple, pink, or white flowers that is part of the Ericaceae family. <br> <li>Blooms in small groups.</>"
+      "text": "<bold>Description:</> <br>A bush with many ball-shaped flowers. <br><br><bold>Colors:</> red, orange, yellow, purple, pink, or white <br><br><bold>Family:</> Ericaceae"
     },
     {
       "type": "natures_expert:tall_flower_display",

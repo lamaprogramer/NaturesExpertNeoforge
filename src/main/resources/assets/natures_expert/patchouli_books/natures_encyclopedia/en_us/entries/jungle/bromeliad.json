@@ -5,7 +5,8 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A red, orange, or yellow flower that is part of the Bromeliaceae family. <br> <li>Blooms on its own.</>"
+      "text": "<bold>Description:</> <br>A flower with multiple layers of long, spike-shaped petals, giving it a pine-cone-like appearance. <br><br><bold>Colors:</> red, orange, or yellow <br><br><bold>Family:</> Bromeliaceae"
+
     },
     {
       "type": "natures_expert:flower_display",

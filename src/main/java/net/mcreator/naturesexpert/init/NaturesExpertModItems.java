@@ -95,6 +95,7 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> PINK_CONEFLOWER = block(NaturesExpertModBlocks.PINK_CONEFLOWER);
 	public static final DeferredHolder<Item, Item> YELLOW_CONEFLOWER = block(NaturesExpertModBlocks.YELLOW_CONEFLOWER);
 	public static final DeferredHolder<Item, Item> WHITE_CONEFLOWER = block(NaturesExpertModBlocks.WHITE_CONEFLOWER);
+	public static final DeferredHolder<Item, Item> SAVANNA_BLAZING_STAR = block(NaturesExpertModBlocks.SAVANNA_BLAZING_STAR);
 
 	// Start of user code block custom items
 	// End of user code block custom items

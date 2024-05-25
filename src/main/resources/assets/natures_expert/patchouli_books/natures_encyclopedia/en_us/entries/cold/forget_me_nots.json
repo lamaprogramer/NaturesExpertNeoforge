@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush of blue and yellow flowers that is part of the Boraginaceae family. <br> <li>Blooms in groups of 1-32.</>"
+      "text": "<bold>Description:</> <br>A bush of small flowers with a yellow center. <br><br><bold>Colors:</> blue <br><br><bold>Family:</> Boraginaceae"
     },
     {
       "type": "natures_expert:flower_display",

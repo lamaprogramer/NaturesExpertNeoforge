@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush of red, orange, yellow, blue, light blue, purple, or pink flowers that is part of the Asparagaceae family. <br> <li>Blooms in medium groups.</>"
+      "text": "<bold>Description:</> <br>A club-shaped bush of small flowers. <br><br><bold>Colors:</> red, orange, yellow, blue, light blue, purple, or pink <br><br><bold>Family:</> Asparagaceae"
     },
     {
       "type": "natures_expert:flower_display",

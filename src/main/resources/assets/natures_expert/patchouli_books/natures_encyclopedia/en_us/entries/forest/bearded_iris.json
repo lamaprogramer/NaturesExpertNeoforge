@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A red, orange, yellow, blue, light blue, purple, pink, white, or black flower that is part of the Iridaceae family. <br> <li>Blooms in medium groups.</>"
+      "text": "<bold>Description:</> <br>A flower with multiple frilly petals, with 2-3 hanging down at the base. <br><br><bold>Colors:</> red, orange, yellow, blue, light blue, purple, pink, white, or black <br><br><bold>Family:</> Iridaceae"
     },
     {
       "type": "natures_expert:flower_display",

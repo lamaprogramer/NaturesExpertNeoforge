@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A blue-purple flower that is part of the Campanulaceae family. <br> <li>Can be found in savannas.</> <br> <li>Blooms in groups of 1-32.</>"
+      "text": "<bold>Description:</> <br>A plant with a long stem, topped with small flowers. <br><br><bold>Colors:</> blue-purple <br><br><bold>Family:</> Campanulaceae"
     },
     {
       "type": "natures_expert:flower_display",

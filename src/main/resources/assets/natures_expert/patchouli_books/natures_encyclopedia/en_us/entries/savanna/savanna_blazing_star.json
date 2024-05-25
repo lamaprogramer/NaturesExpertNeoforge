@@ -1,0 +1,16 @@
+{
+  "name": "Savanna Blazing Star",
+  "icon": "natures_expert:savanna_blazing_star",
+  "category": "natures_expert:savanna",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "<bold>Description:</> <br>A small plant with ball-shaped flowers. <br><br><bold>Colors:</> purple <br><br><bold>Family:</> Asteraceae"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Savanna Blazing Star",
+      "image": "natures_expert:textures/block/savanna_blazing_star.png"
+    }
+  ]
+}

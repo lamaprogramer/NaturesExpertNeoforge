@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A red, orange, or yellow flower that is part of the Proteaceae family. <br> <li>Blooms in small groups.</>"
+      "text": "<bold>Description:</> <br>A flower with small, pointy petals facing upward, with a white, dome-shaped center. <br><br><bold>Colors:</> red, orange, or yellow <br><br><bold>Family:</> Proteaceae"
     },
     {
       "type": "natures_expert:flower_display",

@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush of yellow, light blue, purple, or white flowers that is part of the Iridaceae family. <br> <li>Blooms in medium groups.</>"
+      "text": "<bold>Description:</> <br>A small flower with 4-6 small petals and a yellow center. <br><br><bold>Colors:</> yellow, light blue, purple, or white <br><br><bold>Family:</> Iridaceae"
     },
     {
       "type": "natures_expert:flower_display",

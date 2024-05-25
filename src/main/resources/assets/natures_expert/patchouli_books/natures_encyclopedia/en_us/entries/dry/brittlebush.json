@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A bush with silver leaves and yellow flowers that is part of the Asteraceae family. <br> <li>Blooms in groups of 1-48.</>"
+      "text": "<bold>Description:</> <br>A bush with silver leaves, and multiple small flowers. <br><br><bold>Colors:</> yellow <br><br><bold>Family:</> Asteraceae"
     },
     {
       "type": "natures_expert:flower_display",

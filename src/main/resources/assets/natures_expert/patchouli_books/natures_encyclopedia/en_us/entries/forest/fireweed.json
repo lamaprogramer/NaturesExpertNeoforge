@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A flowering plant with pink flowers that is part of the Onagraceae family. <br> <li>Blooms in groups of 1-48.</>"
+      "text": "<bold>Description:</> <br>A tall, grass-like plant topped with many small flowers. <br><br><bold>Colors:</> pink <br><br><bold>Family:</> Onagraceae"
     },
     {
       "type": "natures_expert:tall_flower_display",

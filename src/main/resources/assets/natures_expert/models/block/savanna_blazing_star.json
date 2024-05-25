@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "natures_expert:block/savanna_blazing_star",
+    "particle": "natures_expert:block/savanna_blazing_star"
+  },
+  "render_type": "cutout"
+}
