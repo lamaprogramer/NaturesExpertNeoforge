@@ -6,10 +6,6 @@ package net.mcreator.naturesexpert.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredHolder;
-import net.neoforged.neoforge.client.event.RegisterColorHandlersEvent;
-import net.neoforged.fml.common.Mod;
-import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -170,14 +166,6 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> YELLOW_CONEFLOWER = REGISTRY.register("yellow_coneflower", () -> new YellowConeflowerBlock());
 	public static final DeferredHolder<Block, Block> WHITE_CONEFLOWER = REGISTRY.register("white_coneflower", () -> new WhiteConeflowerBlock());
 	public static final DeferredHolder<Block, Block> SAVANNA_BLAZING_STAR = REGISTRY.register("savanna_blazing_star", () -> new SavannaBlazingStarBlock());
-
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
-	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
-	public static class ClientSideHandler {
-		@SubscribeEvent
-		public static void blockColorLoad(RegisterColorHandlersEvent.Block event) {
-			LuckyShamrockBlock.blockColorLoad(event);
-		}
-	}
 }
