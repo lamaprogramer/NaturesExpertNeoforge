@@ -15,9 +15,9 @@ import net.minecraft.core.BlockPos;
 
 import java.util.List;
 
-public class AstilbeBlock extends FlowerBlock {
-	public AstilbeBlock() {
-		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.DAMAGE_BOOST, 100)),
+public class WhiteAstilbeBlock extends FlowerBlock {
+	public WhiteAstilbeBlock() {
+		super(List.of(new SuspiciousEffectHolder.EffectEntry(MobEffects.MOVEMENT_SPEED, 100)),
 				BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 

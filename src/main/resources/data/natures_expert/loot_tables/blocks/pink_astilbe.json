@@ -1,6 +1,6 @@
 {
   "type": "minecraft:block",
-  "random_sequence": "natures_expert:blocks/astilbe",
+  "random_sequence": "natures_expert:blocks/pink_astilbe",
   "pools": [
     {
       "rolls": 1.0,
@@ -12,7 +12,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "natures_expert:astilbe"
+          "name": "natures_expert:pink_astilbe"
         }
       ]
     }

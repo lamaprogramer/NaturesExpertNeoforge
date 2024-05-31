@@ -1,16 +1,31 @@
 {
   "name": "Astilbe",
-  "icon": "natures_expert:astilbe",
+  "icon": "natures_expert:red_astilbe",
   "category": "natures_expert:plains",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "<bold>Description:</> <br>A pointy, tree-like bush, with stems lined with tiny flowers. <br><br><bold>Colors:</> white <br><br><bold>Family:</> Saxifrages"
+      "text": "<bold>Description:</> <br>A pointy, tree-like bush, with stems lined with tiny flowers. <br><br><bold>Colors:</> red, purple, pink, or white <br><br><bold>Family:</> Saxifrages"
     },
     {
       "type": "natures_expert:flower_display",
-      "title": "Astilbe",
-      "image": "natures_expert:textures/block/astilbe.png"
+      "title": "Red Astilbe",
+      "image": "natures_expert:textures/block/red_astilbe.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Purple Astilbe",
+      "image": "natures_expert:textures/block/purple_astilbe.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "Pink Astilbe",
+      "image": "natures_expert:textures/block/pink_astilbe.png"
+    },
+    {
+      "type": "natures_expert:flower_display",
+      "title": "White Astilbe",
+      "image": "natures_expert:textures/block/white_astilbe.png"
     }
   ]
 }

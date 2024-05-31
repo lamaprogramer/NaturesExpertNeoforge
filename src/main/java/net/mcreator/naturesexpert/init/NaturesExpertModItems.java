@@ -21,7 +21,6 @@ public class NaturesExpertModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(BuiltInRegistries.ITEM, NaturesExpertMod.MODID);
 	public static final DeferredHolder<Item, Item> AMARYLLIS = block(NaturesExpertModBlocks.AMARYLLIS);
 	public static final DeferredHolder<Item, Item> ANEMONE = block(NaturesExpertModBlocks.ANEMONE);
-	public static final DeferredHolder<Item, Item> ASTILBE = block(NaturesExpertModBlocks.ASTILBE);
 	public static final DeferredHolder<Item, Item> CARNATION = block(NaturesExpertModBlocks.CARNATION);
 	public static final DeferredHolder<Item, Item> CALLA_LILY = block(NaturesExpertModBlocks.CALLA_LILY);
 	public static final DeferredHolder<Item, Item> FORGET_ME_NOTS = block(NaturesExpertModBlocks.FORGET_ME_NOTS);
@@ -96,6 +95,10 @@ public class NaturesExpertModItems {
 	public static final DeferredHolder<Item, Item> YELLOW_CONEFLOWER = block(NaturesExpertModBlocks.YELLOW_CONEFLOWER);
 	public static final DeferredHolder<Item, Item> WHITE_CONEFLOWER = block(NaturesExpertModBlocks.WHITE_CONEFLOWER);
 	public static final DeferredHolder<Item, Item> SAVANNA_BLAZING_STAR = block(NaturesExpertModBlocks.SAVANNA_BLAZING_STAR);
+	public static final DeferredHolder<Item, Item> WHITE_ASTILBE = block(NaturesExpertModBlocks.WHITE_ASTILBE);
+	public static final DeferredHolder<Item, Item> PURPLE_ASTILBE = block(NaturesExpertModBlocks.PURPLE_ASTILBE);
+	public static final DeferredHolder<Item, Item> RED_ASTILBE = block(NaturesExpertModBlocks.RED_ASTILBE);
+	public static final DeferredHolder<Item, Item> PINK_ASTILBE = block(NaturesExpertModBlocks.PINK_ASTILBE);
 
 	// Start of user code block custom items
 	// End of user code block custom items

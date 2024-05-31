@@ -24,7 +24,7 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:Astilbe"
+        "value": "CUSTOM:PinkAstilbe"
       },
       {
         "value": ""
@@ -40,9 +40,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.DYE#19"
+      "value": "Items.DYE#9"
     },
-    "name": "astilbe_dye_recipe",
+    "name": "pink_astilbe_dye_recipe",
     "namespace": "mod"
   }
 }

@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "natures_expert:astilbe"
+      "item": "natures_expert:purple_astilbe"
     }
   ],
   "result": {
-    "item": "minecraft:white_dye",
+    "item": "minecraft:purple_dye",
     "count": 1
   }
 }

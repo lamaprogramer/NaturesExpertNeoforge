@@ -66,6 +66,10 @@ public class NaturesExpertModTabs {
 				tabData.accept(NaturesExpertModBlocks.RED_PROTEA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.PINK_PROTEA.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.WHITE_PROTEA.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.RED_ASTILBE.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PURPLE_ASTILBE.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.PINK_ASTILBE.get().asItem());
+				tabData.accept(NaturesExpertModBlocks.WHITE_ASTILBE.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.YELLOW_CROCUS.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.LIGHT_BLUE_CROCUS.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.PURPLE_CROCUS.get().asItem());
@@ -91,7 +95,6 @@ public class NaturesExpertModTabs {
 				tabData.accept(NaturesExpertModBlocks.FIREWEED.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.CARNATION.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.ANEMONE.get().asItem());
-				tabData.accept(NaturesExpertModBlocks.ASTILBE.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.CALLA_LILY.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.HEATH_ASTER.get().asItem());
 				tabData.accept(NaturesExpertModBlocks.SNOWDROP.get().asItem());

@@ -26,6 +26,7 @@ import net.mcreator.naturesexpert.block.WhitePansyBlock;
 import net.mcreator.naturesexpert.block.WhiteCrocusBlock;
 import net.mcreator.naturesexpert.block.WhiteConeflowerBlock;
 import net.mcreator.naturesexpert.block.WhiteBeardedIrisBlock;
+import net.mcreator.naturesexpert.block.WhiteAstilbeBlock;
 import net.mcreator.naturesexpert.block.SnowdropBlock;
 import net.mcreator.naturesexpert.block.ShamrockBlock;
 import net.mcreator.naturesexpert.block.SavannaBlazingStarBlock;
@@ -39,11 +40,13 @@ import net.mcreator.naturesexpert.block.RedConeflowerBlock;
 import net.mcreator.naturesexpert.block.RedCliviaBlock;
 import net.mcreator.naturesexpert.block.RedBromeliadBlock;
 import net.mcreator.naturesexpert.block.RedBeardedIrisBlock;
+import net.mcreator.naturesexpert.block.RedAstilbeBlock;
 import net.mcreator.naturesexpert.block.PurpleRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.PurplePansyBlock;
 import net.mcreator.naturesexpert.block.PurpleHyacinthBlock;
 import net.mcreator.naturesexpert.block.PurpleCrocusBlock;
 import net.mcreator.naturesexpert.block.PurpleBeardedIrisBlock;
+import net.mcreator.naturesexpert.block.PurpleAstilbeBlock;
 import net.mcreator.naturesexpert.block.PinkRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.PinkProteaBlock;
 import net.mcreator.naturesexpert.block.PinkPansyBlock;
@@ -52,6 +55,7 @@ import net.mcreator.naturesexpert.block.PinkHibiscusBlock;
 import net.mcreator.naturesexpert.block.PinkDahliaBlock;
 import net.mcreator.naturesexpert.block.PinkConeflowerBlock;
 import net.mcreator.naturesexpert.block.PinkBeardedIrisBlock;
+import net.mcreator.naturesexpert.block.PinkAstilbeBlock;
 import net.mcreator.naturesexpert.block.OrangeRhododendronBushBlock;
 import net.mcreator.naturesexpert.block.OrangePansyBlock;
 import net.mcreator.naturesexpert.block.OrangeHyacinthBlock;
@@ -83,7 +87,6 @@ import net.mcreator.naturesexpert.block.BlackPansyBlock;
 import net.mcreator.naturesexpert.block.BlackBeardedIrisBlock;
 import net.mcreator.naturesexpert.block.BirdOfParadiseBlock;
 import net.mcreator.naturesexpert.block.BarrelCactusBlock;
-import net.mcreator.naturesexpert.block.AstilbeBlock;
 import net.mcreator.naturesexpert.block.AnemoneBlock;
 import net.mcreator.naturesexpert.block.AmaryllisBlock;
 import net.mcreator.naturesexpert.NaturesExpertMod;
@@ -92,7 +95,6 @@ public class NaturesExpertModBlocks {
 	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(BuiltInRegistries.BLOCK, NaturesExpertMod.MODID);
 	public static final DeferredHolder<Block, Block> AMARYLLIS = REGISTRY.register("amaryllis", () -> new AmaryllisBlock());
 	public static final DeferredHolder<Block, Block> ANEMONE = REGISTRY.register("anemone", () -> new AnemoneBlock());
-	public static final DeferredHolder<Block, Block> ASTILBE = REGISTRY.register("astilbe", () -> new AstilbeBlock());
 	public static final DeferredHolder<Block, Block> CARNATION = REGISTRY.register("carnation", () -> new CarnationBlock());
 	public static final DeferredHolder<Block, Block> CALLA_LILY = REGISTRY.register("calla_lily", () -> new CallaLilyBlock());
 	public static final DeferredHolder<Block, Block> FORGET_ME_NOTS = REGISTRY.register("forget_me_nots", () -> new ForgetMeNotsBlock());
@@ -166,6 +168,10 @@ public class NaturesExpertModBlocks {
 	public static final DeferredHolder<Block, Block> YELLOW_CONEFLOWER = REGISTRY.register("yellow_coneflower", () -> new YellowConeflowerBlock());
 	public static final DeferredHolder<Block, Block> WHITE_CONEFLOWER = REGISTRY.register("white_coneflower", () -> new WhiteConeflowerBlock());
 	public static final DeferredHolder<Block, Block> SAVANNA_BLAZING_STAR = REGISTRY.register("savanna_blazing_star", () -> new SavannaBlazingStarBlock());
+	public static final DeferredHolder<Block, Block> WHITE_ASTILBE = REGISTRY.register("white_astilbe", () -> new WhiteAstilbeBlock());
+	public static final DeferredHolder<Block, Block> PURPLE_ASTILBE = REGISTRY.register("purple_astilbe", () -> new PurpleAstilbeBlock());
+	public static final DeferredHolder<Block, Block> RED_ASTILBE = REGISTRY.register("red_astilbe", () -> new RedAstilbeBlock());
+	public static final DeferredHolder<Block, Block> PINK_ASTILBE = REGISTRY.register("pink_astilbe", () -> new PinkAstilbeBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

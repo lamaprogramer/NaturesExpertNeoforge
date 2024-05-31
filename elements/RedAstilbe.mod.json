@@ -3,7 +3,7 @@
   "_type": "plant",
   "definition": {
     "renderType": 12,
-    "texture": "astilbe",
+    "texture": "red_astilbe",
     "textureBottom": "",
     "customModelName": "Cross model",
     "itemTexture": "",
@@ -11,7 +11,7 @@
     "tintType": "No tint",
     "isItemTinted": false,
     "plantType": "normal",
-    "suspiciousStewEffect": "STRENGTH",
+    "suspiciousStewEffect": "SPEED",
     "suspiciousStewDuration": 100,
     "growapableSpawnType": "Plains",
     "growapableMaxHeight": 3,
@@ -28,7 +28,7 @@
         "subtract": false
       }
     ],
-    "name": "Astilbe",
+    "name": "Red Astilbe",
     "specialInformation": {
       "fixedValue": []
     },
@@ -80,15 +80,11 @@
     "speedFactor": 1.0,
     "canBePlacedOn": [],
     "isBonemealable": false,
-    "frequencyOnChunks": 3,
-    "generateFeature": true,
-    "restrictionBiomes": [
-      {
-        "value": "#forge:is_plains"
-      }
-    ],
+    "frequencyOnChunks": 5,
+    "generateFeature": false,
+    "restrictionBiomes": [],
     "generationType": "Flower",
-    "patchSize": 16,
+    "patchSize": 64,
     "generateAtAnyHeight": false
   }
 }

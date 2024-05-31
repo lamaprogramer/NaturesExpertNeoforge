@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "natures_expert:block/astilbe",
-    "particle": "natures_expert:block/astilbe"
-  },
-  "render_type": "cutout"
-}
